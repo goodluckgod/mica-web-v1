@@ -1,0 +1,2242 @@
+[
+  {
+    "cid": 1,
+    "code": "01201",
+    "name": "Ceyhan Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01203",
+    "name": "Kozan Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01205",
+    "name": "Karataş Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01251",
+    "name": "Beşocak Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01252",
+    "name": "Yüreğir Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01253",
+    "name": "Seyhan Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01254",
+    "name": "Ziyapaşa Vergi Dairesi"
+  },
+  {
+    "cid": 1,
+    "code": "01255",
+    "name": "Çukurova Vergi Dairesi"
+  },
+  {
+    "cid": 2,
+    "code": "02260",
+    "name": "Adiyaman Vergi Dairesi"
+  },
+  {
+    "cid": 2,
+    "code": "02261",
+    "name": "Kahta Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03201",
+    "name": "Tinaztepe Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03202",
+    "name": "Çay Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03260",
+    "name": "Dinar Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03261",
+    "name": "Bolvadin Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03262",
+    "name": "Emirdağ Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03263",
+    "name": "Sandikli Vergi Dairesi"
+  },
+  {
+    "cid": 3,
+    "code": "03280",
+    "name": "Kocatepe Vergi Dairesi"
+  },
+  {
+    "cid": 4,
+    "code": "04260",
+    "name": "Ağri Vergi Dairesi"
+  },
+  {
+    "cid": 4,
+    "code": "04261",
+    "name": "Doğubeyazit Vergi Dairesi"
+  },
+  {
+    "cid": 5,
+    "code": "05260",
+    "name": "Amasya Vergi Dairesi"
+  },
+  {
+    "cid": 5,
+    "code": "05261",
+    "name": "Merzifon Vergi Dairesi"
+  },
+  {
+    "cid": 5,
+    "code": "05262",
+    "name": "Gümüşhaciköy Vergi Dairesi"
+  },
+  {
+    "cid": 5,
+    "code": "05263",
+    "name": "Taşova Vergi Dairesi"
+  },
+  {
+    "cid": 5,
+    "code": "05264",
+    "name": "Suluova Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06205",
+    "name": "Polatli Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06207",
+    "name": "Şereflikoçhisar Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06209",
+    "name": "Beypazari Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06211",
+    "name": "Çubuk Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06213",
+    "name": "Haymana Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06215",
+    "name": "Elmadağ Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06252",
+    "name": "Veraset Ve Harçlar Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06253",
+    "name": "Kavaklidere Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06254",
+    "name": "Maltepe Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06255",
+    "name": "Yenimahalle Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06257",
+    "name": "Çankaya Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06258",
+    "name": "Kizilbey Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06259",
+    "name": "Mithatpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06260",
+    "name": "Ulus Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06261",
+    "name": "Yildirimbeyazit Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06262",
+    "name": "Seğmenler Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06263",
+    "name": "Ulusite Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06264",
+    "name": "Dikimevi Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06265",
+    "name": "Doğanbey Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06266",
+    "name": "Yeğenbey Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06268",
+    "name": "Hitit Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06269",
+    "name": "Yahya Galip Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06270",
+    "name": "M.Karagüzel Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06271",
+    "name": "Ostim Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06272",
+    "name": "Gölbaşi Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06273",
+    "name": "Sincan Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06274",
+    "name": "Dişkapi Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06275",
+    "name": "Etimesgut Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06276",
+    "name": "Başkent Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06277",
+    "name": "Cumhuriyet Vergi Dairesi"
+  },
+  {
+    "cid": 6,
+    "code": "06278",
+    "name": "Keçiören Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07201",
+    "name": "Alanya Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07202",
+    "name": "Serik Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07203",
+    "name": "Manavgat Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07204",
+    "name": "Elmali Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07205",
+    "name": "Kemer Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07206",
+    "name": "Kumluca Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07251",
+    "name": "Üçkapilar Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07252",
+    "name": "Kalekapi Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07253",
+    "name": "Muratpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07254",
+    "name": "Düden Vergi Dairesi"
+  },
+  {
+    "cid": 7,
+    "code": "07255",
+    "name": "Antalya Kurumlar Vergi Dairesi"
+  },
+  {
+    "cid": 8,
+    "code": "08260",
+    "name": "Artvin Vergi Dairesi"
+  },
+  {
+    "cid": 8,
+    "code": "08261",
+    "name": "Hopa Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09201",
+    "name": "Efeler Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09260",
+    "name": "Nazilli Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09261",
+    "name": "Söke Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09262",
+    "name": "Çine Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09263",
+    "name": "Germencik Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09265",
+    "name": "Kuşadasi Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09280",
+    "name": "Güzelhisar Vergi Dairesi"
+  },
+  {
+    "cid": 9,
+    "code": "09281",
+    "name": "Didim Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10201",
+    "name": "Karesi Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10260",
+    "name": "Ayvalik Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10261",
+    "name": "Bandirma Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10262",
+    "name": "Burhaniye Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10263",
+    "name": "Edremit Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10264",
+    "name": "Gönen Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10265",
+    "name": "Susurluk Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10266",
+    "name": "Erdek Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10267",
+    "name": "Bigadiç Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10268",
+    "name": "Sindirgi Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10269",
+    "name": "Dursunbey Vergi Dairesi"
+  },
+  {
+    "cid": 10,
+    "code": "10280",
+    "name": "Kurtdereli Vergi Dairesi"
+  },
+  {
+    "cid": 11,
+    "code": "11260",
+    "name": "Bilecik Vergi Dairesi"
+  },
+  {
+    "cid": 11,
+    "code": "11261",
+    "name": "Bozöyük Vergi Dairesi"
+  },
+  {
+    "cid": 12,
+    "code": "12260",
+    "name": "Bingöl Vergi Dairesi"
+  },
+  {
+    "cid": 13,
+    "code": "13260",
+    "name": "Bitlis Vergi Dairesi"
+  },
+  {
+    "cid": 13,
+    "code": "13261",
+    "name": "Tatvan Vergi Dairesi"
+  },
+  {
+    "cid": 14,
+    "code": "14260",
+    "name": "Bolu Vergi Dairesi"
+  },
+  {
+    "cid": 14,
+    "code": "14262",
+    "name": "Gerede Vergi Dairesi"
+  },
+  {
+    "cid": 15,
+    "code": "15260",
+    "name": "Burdur Vergi Dairesi"
+  },
+  {
+    "cid": 15,
+    "code": "15261",
+    "name": "Bucak Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16201",
+    "name": "Gemlik Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16202",
+    "name": "İnegöl Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16203",
+    "name": "Karacabey Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16204",
+    "name": "M.Kemalpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16205",
+    "name": "Mudanya Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16206",
+    "name": "Orhangazi Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16207",
+    "name": "İznik Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16208",
+    "name": "Yenişehir Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16251",
+    "name": "Osmangazi Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16252",
+    "name": "Yildirim Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16253",
+    "name": "Çekirge Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16254",
+    "name": "Setbaşi Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16255",
+    "name": "Uludağ Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16256",
+    "name": "Yeşil Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16257",
+    "name": "Nilüfer Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16258",
+    "name": "Ertuğrulgazi Vergi Dairesi"
+  },
+  {
+    "cid": 16,
+    "code": "16259",
+    "name": "Gökdere Vergi Dairesi"
+  },
+  {
+    "cid": 17,
+    "code": "17260",
+    "name": "Çanakkale Vergi Dairesi"
+  },
+  {
+    "cid": 17,
+    "code": "17261",
+    "name": "Biga Vergi Dairesi"
+  },
+  {
+    "cid": 17,
+    "code": "17262",
+    "name": "Çan Vergi Dairesi"
+  },
+  {
+    "cid": 17,
+    "code": "17263",
+    "name": "Gelibolu Vergi Dairesi"
+  },
+  {
+    "cid": 18,
+    "code": "18260",
+    "name": "Çankiri Vergi Dairesi"
+  },
+  {
+    "cid": 19,
+    "code": "19260",
+    "name": "Çorum Vergi Dairesi"
+  },
+  {
+    "cid": 19,
+    "code": "19261",
+    "name": "Sungurlu Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20201",
+    "name": "Saraylar Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20202",
+    "name": "Çinar Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20203",
+    "name": "Gökpinar Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20260",
+    "name": "Sarayköy Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20261",
+    "name": "Acipayam Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20262",
+    "name": "Tavas Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20263",
+    "name": "Buldan Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20264",
+    "name": "Çal Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20265",
+    "name": "Çivril Vergi Dairesi"
+  },
+  {
+    "cid": 20,
+    "code": "20280",
+    "name": "Pamukkale Vergi Dairesi"
+  },
+  {
+    "cid": 21,
+    "code": "21251",
+    "name": "Gökalp Vergi Dairesi"
+  },
+  {
+    "cid": 21,
+    "code": "21281",
+    "name": "Süleymannazif Vergi Dairesi"
+  },
+  {
+    "cid": 21,
+    "code": "21282",
+    "name": "C.Sitki Taranci Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22201",
+    "name": "Arda Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22260",
+    "name": "Kirkpinar Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22261",
+    "name": "Keşan Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22262",
+    "name": "Uzunköprü Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22263",
+    "name": "Havsa Vergi Dairesi"
+  },
+  {
+    "cid": 22,
+    "code": "22264",
+    "name": "İpsala Vergi Dairesi"
+  },
+  {
+    "cid": 23,
+    "code": "23201",
+    "name": "Harput Vergi Dairesi"
+  },
+  {
+    "cid": 23,
+    "code": "23280",
+    "name": "Hazar Vergi Dairesi"
+  },
+  {
+    "cid": 24,
+    "code": "24260",
+    "name": "Fevzipaşa Vergi Dairesi"
+  },
+  {
+    "cid": 25,
+    "code": "25251",
+    "name": "Aziziye Vergi Dairesi"
+  },
+  {
+    "cid": 25,
+    "code": "25280",
+    "name": "Kazimkarabekir Vergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26201",
+    "name": "Çifteler Vergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26202",
+    "name": "Sivrihisar Vergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26252",
+    "name": "Yunusemre Vergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26253",
+    "name": "2 Eylülvergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26254",
+    "name": "Battalgazi Vergi Dairesi"
+  },
+  {
+    "cid": 26,
+    "code": "26255",
+    "name": "Taşbaşi Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27202",
+    "name": "Nizip Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27203",
+    "name": "İslahiye Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27251",
+    "name": "Suburcu Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27252",
+    "name": "Şehitkamil Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27253",
+    "name": "Şahinbey Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27254",
+    "name": "Gazikent Vergi Dairesi"
+  },
+  {
+    "cid": 27,
+    "code": "27255",
+    "name": "Kozanli Vergi Dairesi"
+  },
+  {
+    "cid": 28,
+    "code": "28260",
+    "name": "Giresun Vergi Dairesi"
+  },
+  {
+    "cid": 28,
+    "code": "28261",
+    "name": "Bulancak Vergi Dairesi"
+  },
+  {
+    "cid": 29,
+    "code": "29260",
+    "name": "Gümüşhane Vergi Dairesi"
+  },
+  {
+    "cid": 30,
+    "code": "30260",
+    "name": "Hakkari Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31201",
+    "name": "23 Temmuz Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31202",
+    "name": "Sahil Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31203",
+    "name": "Antakya Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31260",
+    "name": "Dörtyol Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31261",
+    "name": "Kirikhan Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31262",
+    "name": "Reyhanli Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31263",
+    "name": "Samandağ Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31280",
+    "name": "Şükrükanatli Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31281",
+    "name": "Akdeniz Vergi Dairesi"
+  },
+  {
+    "cid": 31,
+    "code": "31290",
+    "name": "Asim Gündüz Vergi Dairesi"
+  },
+  {
+    "cid": 32,
+    "code": "32201",
+    "name": "Davraz Vergi Dairesi"
+  },
+  {
+    "cid": 32,
+    "code": "32260",
+    "name": "Kaymakkapi Vergi Dairesi"
+  },
+  {
+    "cid": 32,
+    "code": "32261",
+    "name": "Eğirdir Vergi Dairesi"
+  },
+  {
+    "cid": 32,
+    "code": "32262",
+    "name": "Yalvaç Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33201",
+    "name": "Erdemli Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33202",
+    "name": "Silifke Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33203",
+    "name": "Anamur Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33204",
+    "name": "Kizilmurat Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33205",
+    "name": "Şehitkerim Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33250",
+    "name": "İstiklal Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33252",
+    "name": "Uray Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33254",
+    "name": "Liman Vergi Dairesi"
+  },
+  {
+    "cid": 33,
+    "code": "33255",
+    "name": "Toros Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34203",
+    "name": "Silivri Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34204",
+    "name": "Büyükçekmece Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34205",
+    "name": "Şile Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34206",
+    "name": "Çatalca Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34231",
+    "name": "Boğaziçi Kurumlar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34232",
+    "name": "Marmara Kurumlar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34233",
+    "name": "Ulaştirma Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34234",
+    "name": "Davutpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34235",
+    "name": "Esenler Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34236",
+    "name": "Fatih Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34237",
+    "name": "Küçükköy Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34238",
+    "name": "Laleli Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34239",
+    "name": "Merter Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34240",
+    "name": "Mevlanakapi Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34241",
+    "name": "Rami Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34242",
+    "name": "Sultanbeyli Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34243",
+    "name": "Süleymaniye Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34244",
+    "name": "Anadolu Kurumlar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34245",
+    "name": "Tuzla Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34246",
+    "name": "Kozyataği Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34247",
+    "name": "Maslak Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34248",
+    "name": "Zincirlikuyu Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34249",
+    "name": "İkitelli Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34250",
+    "name": "Çapa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34251",
+    "name": "Beşiktaş Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34252",
+    "name": "Ümraniye Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34253",
+    "name": "Yeditepe Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34254",
+    "name": "Gayrettepe Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34255",
+    "name": "Erenköy Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34256",
+    "name": "Hisar Ver. Harçlar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34257",
+    "name": "Tuna Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34258",
+    "name": "Rihtim Ver.Harçlar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34259",
+    "name": "Güngören Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34260",
+    "name": "Kocasinan Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34261",
+    "name": "Güneşli Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34262",
+    "name": "Küçükyali Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34263",
+    "name": "Pendik Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34264",
+    "name": "Bayrampaşa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34265",
+    "name": "Beyazit Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34266",
+    "name": "Beyoğlu Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34267",
+    "name": "Nuruosmaniye Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34268",
+    "name": "Galata Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34269",
+    "name": "Gaziosmanpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34270",
+    "name": "Göztepe Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34271",
+    "name": "Hocapaşa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34272",
+    "name": "Kadiköy Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34273",
+    "name": "Kocamustafapaşa Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34274",
+    "name": "Mecidiyeköy Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34275",
+    "name": "Mercan Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34276",
+    "name": "Şişli Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34277",
+    "name": "Üsküdar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34278",
+    "name": "Halkali Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34279",
+    "name": "Kağithane Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34280",
+    "name": "Zeytinburnu Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34281",
+    "name": "Beykoz Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34283",
+    "name": "Sariyer Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34284",
+    "name": "Bakirköy Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34285",
+    "name": "Kartal Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34286",
+    "name": "Sultanahmet Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34287",
+    "name": "Nakil Vasitalari Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34288",
+    "name": "Sarigazi Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34289",
+    "name": "Diş Ticaret Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34291",
+    "name": "Atişalani Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34292",
+    "name": "Yakacik Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34293",
+    "name": "Yeni Bosna Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34294",
+    "name": "Avcilar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34295",
+    "name": "Adalar Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34296",
+    "name": "Küçükçekmece Vergi Dairesi"
+  },
+  {
+    "cid": 34,
+    "code": "34297",
+    "name": "Beylikdüzü Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35201",
+    "name": "Bayindir Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35202",
+    "name": "Bergama Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35203",
+    "name": "Menemen Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35204",
+    "name": "Ödemiş Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35205",
+    "name": "Tire Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35206",
+    "name": "Torbali Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35207",
+    "name": "Kemalpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35208",
+    "name": "Urla Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35209",
+    "name": "Selçuk Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35210",
+    "name": "Kinik Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35211",
+    "name": "Kiraz Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35212",
+    "name": "Çeşme Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35213",
+    "name": "Aliağa Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35215",
+    "name": "Menderes Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35251",
+    "name": "9 Eylül Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35252",
+    "name": "Yamanlar Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35254",
+    "name": "Belkahve Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35255",
+    "name": "Basmane Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35256",
+    "name": "Karşiyaka Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35257",
+    "name": "Kemeralti Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35258",
+    "name": "Konak Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35259",
+    "name": "Kordon Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35260",
+    "name": "Şirinyer Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35261",
+    "name": "Kadifekale Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35262",
+    "name": "Taşitlar Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35263",
+    "name": "Hasan Tahsin Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35264",
+    "name": "Bornova Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35265",
+    "name": "Çakabey Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35266",
+    "name": "Balçova Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35267",
+    "name": "Gaziemir Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35268",
+    "name": "Ege Vergi Dairesi"
+  },
+  {
+    "cid": 35,
+    "code": "35269",
+    "name": "Çiğli Vergi Dairesi"
+  },
+  {
+    "cid": 36,
+    "code": "36260",
+    "name": "Kars Vergi Dairesi"
+  },
+  {
+    "cid": 37,
+    "code": "37260",
+    "name": "Kastamonu Vergi Dairesi"
+  },
+  {
+    "cid": 37,
+    "code": "37261",
+    "name": "Tosya Vergi Dairesi"
+  },
+  {
+    "cid": 37,
+    "code": "37262",
+    "name": "Taşköprü Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38201",
+    "name": "Develi Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38202",
+    "name": "Pinarbaşi Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38203",
+    "name": "Bünyan Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38251",
+    "name": "Mimarsinan Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38252",
+    "name": "Erciyes Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38253",
+    "name": "Kaleönü Vergi Dairesi"
+  },
+  {
+    "cid": 38,
+    "code": "38254",
+    "name": "Gevher Nesibe Vergi Dairesi"
+  },
+  {
+    "cid": 39,
+    "code": "39260",
+    "name": "Kirklareli Vergi Dairesi"
+  },
+  {
+    "cid": 39,
+    "code": "39261",
+    "name": "Lüleburgaz Vergi Dairesi"
+  },
+  {
+    "cid": 39,
+    "code": "39262",
+    "name": "Babaeski Vergi Dairesi"
+  },
+  {
+    "cid": 40,
+    "code": "40260",
+    "name": "Kirşehir Vergi Dairesi"
+  },
+  {
+    "cid": 40,
+    "code": "40261",
+    "name": "Kaman Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41202",
+    "name": "Uluçinar Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41203",
+    "name": "İlyasbey Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41204",
+    "name": "Gölcük Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41205",
+    "name": "Karamürsel Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41206",
+    "name": "Körfez Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41207",
+    "name": "Derince Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41252",
+    "name": "Tepecik Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41253",
+    "name": "Alemdar  Vergi Dairesi"
+  },
+  {
+    "cid": 41,
+    "code": "41290",
+    "name": "Acisu  Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42201",
+    "name": "Akşehir Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42202",
+    "name": "Ereğli Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42204",
+    "name": "Beyşehir Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42205",
+    "name": "Cihanbeyli Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42206",
+    "name": "Çumra Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42207",
+    "name": "Seydişehir Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42208",
+    "name": "Ilgin Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42209",
+    "name": "Kulu Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42251",
+    "name": "Selçuk Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42252",
+    "name": "Mevlana Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42253",
+    "name": "Meram Vergi Dairesi"
+  },
+  {
+    "cid": 42,
+    "code": "42254",
+    "name": "Alaaddin Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43201",
+    "name": "30 Ağustos Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43260",
+    "name": "Gediz Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43261",
+    "name": "Simav Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43262",
+    "name": "Tavşanli Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43263",
+    "name": "Emet Vergi Dairesi"
+  },
+  {
+    "cid": 43,
+    "code": "43280",
+    "name": "Çinili Vergi Dairesi"
+  },
+  {
+    "cid": 44,
+    "code": "44251",
+    "name": "Firat Vergi Dairesi"
+  },
+  {
+    "cid": 44,
+    "code": "44252",
+    "name": "Beydaği Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45201",
+    "name": "Akhisar Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45202",
+    "name": "Alaşehir Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45203",
+    "name": "Demirci Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45204",
+    "name": "Kirkağaç Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45205",
+    "name": "Salihli Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45206",
+    "name": "Sarigöl Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45207",
+    "name": "Saruhanli Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45208",
+    "name": "Soma Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45209",
+    "name": "Turgutlu Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45210",
+    "name": "Gördes Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45211",
+    "name": "Kula Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45251",
+    "name": "Alaybey Vergi Dairesi"
+  },
+  {
+    "cid": 45,
+    "code": "45252",
+    "name": "Mesir Vergi Dairesi"
+  },
+  {
+    "cid": 46,
+    "code": "46201",
+    "name": "Aslanbey Vergi Dairesi"
+  },
+  {
+    "cid": 46,
+    "code": "46260",
+    "name": "Elbistan Vergi Dairesi"
+  },
+  {
+    "cid": 46,
+    "code": "46261",
+    "name": "Afşin Vergi Dairesi"
+  },
+  {
+    "cid": 46,
+    "code": "46262",
+    "name": "Pazarcik Vergi Dairesi"
+  },
+  {
+    "cid": 46,
+    "code": "46280",
+    "name": "Aksu Vergi Dairesi"
+  },
+  {
+    "cid": 47,
+    "code": "47260",
+    "name": "Mardin Vergi Dairesi"
+  },
+  {
+    "cid": 47,
+    "code": "47261",
+    "name": "Kiziltepe Vergi Dairesi"
+  },
+  {
+    "cid": 47,
+    "code": "47262",
+    "name": "Nusaybin Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48260",
+    "name": "Muğla Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48261",
+    "name": "Bodrum Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48262",
+    "name": "Fethiye Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48263",
+    "name": "Köyceğiz Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48264",
+    "name": "Milas Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48265",
+    "name": "Marmaris Vergi Dairesi"
+  },
+  {
+    "cid": 48,
+    "code": "48266",
+    "name": "Yatağan Vergi Dairesi"
+  },
+  {
+    "cid": 49,
+    "code": "49260",
+    "name": "Muş Vergi Dairesi"
+  },
+  {
+    "cid": 50,
+    "code": "50260",
+    "name": "Nevşehir Vergi Dairesi"
+  },
+  {
+    "cid": 51,
+    "code": "51260",
+    "name": "Niğde Vergi Dairesi"
+  },
+  {
+    "cid": 51,
+    "code": "51262",
+    "name": "Bor Vergi Dairesi"
+  },
+  {
+    "cid": 52,
+    "code": "52201",
+    "name": "Boztepe Vergi Dairesi"
+  },
+  {
+    "cid": 52,
+    "code": "52260",
+    "name": "Köprübaşi Vergi Dairesi"
+  },
+  {
+    "cid": 52,
+    "code": "52261",
+    "name": "Fatsa Vergi Dairesi"
+  },
+  {
+    "cid": 52,
+    "code": "52262",
+    "name": "Ünye Vergi Dairesi"
+  },
+  {
+    "cid": 53,
+    "code": "53201",
+    "name": "Kaçkar Vergi Dairesi"
+  },
+  {
+    "cid": 53,
+    "code": "53260",
+    "name": "Yeşilçay Vergi Dairesi"
+  },
+  {
+    "cid": 53,
+    "code": "53261",
+    "name": "Çayeli Vergi Dairesi"
+  },
+  {
+    "cid": 53,
+    "code": "53262",
+    "name": "Pazar Vergi Dairesi"
+  },
+  {
+    "cid": 53,
+    "code": "53263",
+    "name": "Ardeşen Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54201",
+    "name": "Akyazi Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54202",
+    "name": "Geyve Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54203",
+    "name": "Hendek Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54204",
+    "name": "Karasu Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54251",
+    "name": "Gümrükönü Vergi Dairesi"
+  },
+  {
+    "cid": 54,
+    "code": "54252",
+    "name": "Ali Fuat Cebesoy Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55202",
+    "name": "Bafra Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55203",
+    "name": "Çarşamba Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55204",
+    "name": "Terme Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55205",
+    "name": "Havza Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55251",
+    "name": "19 Mayis Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55252",
+    "name": "Gaziler Vergi Dairesi"
+  },
+  {
+    "cid": 55,
+    "code": "55290",
+    "name": "Zafer Vergi Dairesi"
+  },
+  {
+    "cid": 56,
+    "code": "56260",
+    "name": "Siirt Vergi Dairesi"
+  },
+  {
+    "cid": 57,
+    "code": "57260",
+    "name": "Sinop Vergi Dairesi"
+  },
+  {
+    "cid": 57,
+    "code": "57261",
+    "name": "Boyabat Vergi Dairesi"
+  },
+  {
+    "cid": 58,
+    "code": "58201",
+    "name": "Kale Vergi Dairesi"
+  },
+  {
+    "cid": 58,
+    "code": "58260",
+    "name": "Şarkişla Vergi Dairesi"
+  },
+  {
+    "cid": 58,
+    "code": "58280",
+    "name": "Site Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59201",
+    "name": "Süleymanpaşa Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59260",
+    "name": "Namik Kemal Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59261",
+    "name": "Çerkezköy Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59262",
+    "name": "Çorlu Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59263",
+    "name": "Hayrabolu Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59264",
+    "name": "Malkara Vergi Dairesi"
+  },
+  {
+    "cid": 59,
+    "code": "59265",
+    "name": "Muratli Vergi Dairesi"
+  },
+  {
+    "cid": 60,
+    "code": "60260",
+    "name": "Tokat Vergi Dairesi"
+  },
+  {
+    "cid": 60,
+    "code": "60261",
+    "name": "Erbaa Vergi Dairesi"
+  },
+  {
+    "cid": 60,
+    "code": "60262",
+    "name": "Niksar Vergi Dairesi"
+  },
+  {
+    "cid": 60,
+    "code": "60263",
+    "name": "Turhal Vergi Dairesi"
+  },
+  {
+    "cid": 60,
+    "code": "60264",
+    "name": "Zile Vergi Dairesi"
+  },
+  {
+    "cid": 61,
+    "code": "61201",
+    "name": "Hizirbey Vergi Dairesi"
+  },
+  {
+    "cid": 61,
+    "code": "61260",
+    "name": "Akçaabat Vergi Dairesi"
+  },
+  {
+    "cid": 61,
+    "code": "61261",
+    "name": "Of Vergi Dairesi"
+  },
+  {
+    "cid": 61,
+    "code": "61262",
+    "name": "Vakfikebir Vergi Dairesi"
+  },
+  {
+    "cid": 61,
+    "code": "61280",
+    "name": "Karadeniz Vergi Dairesi"
+  },
+  {
+    "cid": 62,
+    "code": "62260",
+    "name": "Tunceli Vergi Dairesi"
+  },
+  {
+    "cid": 63,
+    "code": "63201",
+    "name": "Şehitlik Vergi Dairesi"
+  },
+  {
+    "cid": 63,
+    "code": "63260",
+    "name": "Siverek Vergi Dairesi"
+  },
+  {
+    "cid": 63,
+    "code": "63261",
+    "name": "Viranşehir Vergi Dairesi"
+  },
+  {
+    "cid": 63,
+    "code": "63262",
+    "name": "Birecik Vergi Dairesi"
+  },
+  {
+    "cid": 63,
+    "code": "63280",
+    "name": "Topçumeydani Vergi Dairesi"
+  },
+  {
+    "cid": 64,
+    "code": "64260",
+    "name": "Uşak Vergi Dairesi"
+  },
+  {
+    "cid": 64,
+    "code": "64261",
+    "name": "Banaz Vergi Dairesi"
+  },
+  {
+    "cid": 64,
+    "code": "64262",
+    "name": "Eşme Vergi Dairesi"
+  },
+  {
+    "cid": 65,
+    "code": "65201",
+    "name": "Erciş Vergi Dairesi"
+  },
+  {
+    "cid": 65,
+    "code": "65260",
+    "name": "Van Vergi Dairesi"
+  },
+  {
+    "cid": 66,
+    "code": "66260",
+    "name": "Yozgat Vergi Dairesi"
+  },
+  {
+    "cid": 66,
+    "code": "66261",
+    "name": "Boğazliyan Vergi Dairesi"
+  },
+  {
+    "cid": 66,
+    "code": "66262",
+    "name": "Sorgun Vergi Dairesi"
+  },
+  {
+    "cid": 66,
+    "code": "66263",
+    "name": "Yerköy Vergi Dairesi"
+  },
+  {
+    "cid": 67,
+    "code": "67201",
+    "name": "Uzunmehmet Vergi Dairesi"
+  },
+  {
+    "cid": 67,
+    "code": "67261",
+    "name": "Krdz.Ereğli Vergi Dairesi"
+  },
+  {
+    "cid": 67,
+    "code": "67263",
+    "name": "Çaycuma Vergi Dairesi"
+  },
+  {
+    "cid": 67,
+    "code": "67264",
+    "name": "Devrek Vergi Dairesi"
+  },
+  {
+    "cid": 67,
+    "code": "67280",
+    "name": "Karaelmas Vergi Dairesi"
+  },
+  {
+    "cid": 68,
+    "code": "68201",
+    "name": "Aksaray Vergi Dairesi"
+  },
+  {
+    "cid": 69,
+    "code": "69201",
+    "name": "Bayburt Vergi Dairesi"
+  },
+  {
+    "cid": 70,
+    "code": "70201",
+    "name": "Karaman Vergi Dairesi"
+  },
+  {
+    "cid": 71,
+    "code": "71201",
+    "name": "Irmak Vergi Dairesi"
+  },
+  {
+    "cid": 71,
+    "code": "71202",
+    "name": "Kaletepe Vergi Dairesi"
+  },
+  {
+    "cid": 72,
+    "code": "72260",
+    "name": "Batman Vergi Dairesi"
+  },
+  {
+    "cid": 73,
+    "code": "73260",
+    "name": "Şirnak Vergi Dairesi"
+  },
+  {
+    "cid": 73,
+    "code": "73261",
+    "name": "Cizre Vergi Dairesi"
+  },
+  {
+    "cid": 73,
+    "code": "73262",
+    "name": "Silopi Vergi Dairesi"
+  },
+  {
+    "cid": 74,
+    "code": "74260",
+    "name": "Bartin Vergi Dairesi"
+  },
+  {
+    "cid": 75,
+    "code": "75201",
+    "name": "Ardahan Vergi Dairesi"
+  },
+  {
+    "cid": 76,
+    "code": "76201",
+    "name": "Iğdir Vergi Dairesi"
+  },
+  {
+    "cid": 77,
+    "code": "77201",
+    "name": "Yalova Vergi Dairesi"
+  },
+  {
+    "cid": 78,
+    "code": "78201",
+    "name": "Karabük Vergi Dairesi"
+  },
+  {
+    "cid": 78,
+    "code": "78260",
+    "name": "Safranbolu Vergi Dairesi"
+  },
+  {
+    "cid": 79,
+    "code": "79201",
+    "name": "Kilis Vergi Dairesi"
+  },
+  {
+    "cid": 80,
+    "code": "80201",
+    "name": "Osmaniye Vergi Daires"
+  },
+  {
+    "cid": 80,
+    "code": "80260",
+    "name": "Kadirli Vergi Dairesi"
+  },
+  {
+    "cid": 81,
+    "code": "81260",
+    "name": "Düzce Vergi Dairesi"
+  },
+  {
+    "cid": 81,
+    "code": "81261",
+    "name": "Akçakoca Vergi Dairesi"
+  }
+]

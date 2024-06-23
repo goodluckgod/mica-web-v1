@@ -1,0 +1,17 @@
+[
+  { "value": "PRIVATE", "label": "Şahıs" },
+  { "value": "UNINCORPORATED", "label": "Adi Ortaklık" },
+  { "value": "UNLIMITED_COMPANY", "label": "Kollektif Şirket" },
+  { "value": "UNINCORPORATED_COMMANDITE", "label": "Adi Komandit Şirket" },
+  {
+    "value": "ESH_COMMANDITE",
+    "label": "Sermayesi Paylara Bölünmüş Komandit Şirket"
+  },
+  { "value": "LIMITED", "label": "Limited Şirketi" },
+  { "value": "ANONYMOUS", "label": "Anonim Şirket" },
+  { "value": "COOPERATIVE", "label": "Kooperatif Şirket" },
+  { "value": "OTHER", "label": "Diğer" },
+  { "value": "BUSINESS_PARTNERSHIP", "label": "İş Ortaklığı" },
+  { "value": "ASSOCIATION", "label": "Dernek İşletmesi" },
+  { "value": "FOUNDATION", "label": "Vakıf İşletmesi" }
+]

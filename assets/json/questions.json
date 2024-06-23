@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Popüler Sorular",
+    "questions": [
+      {
+        "soru": "Ücret iadem ne zaman yapılır?",
+        "cevap": "İptal ettiğiniz ürünün ücret iadesi bankanıza bağlı olarak değişkenlik gösterebilir. Bu süre yaklaşık 1 haftayı bulabilir. İade ettiğiniz ürünün ücret iade süreci aşağıdaki gibidir; Ürün satıcıya ulaştıktan sonra en geç 48 saat içerisinde iade şartlarına uygunluğu kontrol edilir. Ürün iade şartlarına uygunsa, iadeniz onaylanır ve ücret iadeniz bankanıza bağlı olarak 2-10 iş günü içerisinde ödeme yapmış olduğunuz kartınıza yansır. Ürün iade şartlarına uygun değilse adresinize geri gönderilir."
+      },
+      {
+        "soru": "Siparişimin teslimat adresini veya alıcı adını değiştirebilir miyim?",
+        "cevap": "Eğer siparişiniz “Kargoya Verildi” statüsündeyse alıcı ve/veya adres değişikliğini ancak kargo firmaları yapabilir. Değişiklik talebinizi iki şekilde iletebilirsiniz. Kargonun gönderildiği kargo firması ile irtibata geçerek veya “Hesabım” bölümünden “Trendyol Asistan“ butonuna tıklayarak."
+      },
+      {
+        "soru": "Siparişim ne zaman gelir?",
+        "cevap": "Satın aldığınız ürünler Hesabım->Siparişlerim->Sipariş Detay sayfasında belirtilen teslimat tarih aralığında teslim edilir. Üründe “Hızlı Teslimat” etiketi bulunuyorsa siparişiniz en geç bir sonraki iş günü kargoya verilir. “Bugün Kargoda” etiketi bulunuyorsa siparişiniz aynı gün içerisinde kargoya verilir. Sipariş dağıtıma çıktığında kargo firması tarafından SMS ile bilgilendirilirsiniz. Kargoya verildikten sonra siparişinizin kargo aşamalarını Hesabım->Siparişlerim->Sipariş Detay sayfasında bulunan 'Kargom Nerede?' linkinden takip edebilirsiniz."
+      },
+      {
+        "soru": "Siparişimi nasıl iptal edebilirim?",
+        "cevap": "Yanlış ürün sipariş ettiyseniz veya fikrinizi değiştirdiyseniz ürünlerinizin kargo hazırlıkları başlamadan önce aşağıdaki şekilde kolayca iptal edebilirsiniz. “Siparişlerim” > “Detaylar/Sipariş Detayı” > “Sipariş İptal” adımlarını takip ederek veya “Hesabım” bölümünde yer alan “Yardım” adımından “Canlı Yardıma Bağlan” a tıklayarak. Ürünleriniz kargolanmak üzere hazırlanmaya başlandıysa (faturanız kesildiyse) veya kargoya verildiyse iptal edilemez. Bu durumda ürünü teslim aldığınızda iade edebilirsiniz."
+      }
+    ]
+  },
+  {
+    "title": "Kargo ve Sipariş",
+    "questions": [
+      {
+        "soru": "Kargo firmaları ile iletişim numaraları nelerdir?",
+        "cevap": "AGT Çağrı Merkezi: 0850 480 76 77, Aras Kargo: 444 25 52, Ceva Lojistik: 0216 999 24 40, Horoz Lojistik: 0850 202 33 50, MNG Kargo: 444 06 06, PTT Kargo: 444 1 788, Sürat Kargo: 0850 202 02 02, Trendyol Express: 0850 759 15 15, Yurtiçi Kargo: 444 99 99"
+      }
+    ]
+  }
+]

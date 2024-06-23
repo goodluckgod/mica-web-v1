@@ -1,0 +1,6667 @@
+[
+  {
+    "id": "1",
+    "title": "Kadın",
+    "webUrl": "/butik/liste/1/kadin",
+    "image": "/mobile/web-navigation/V2/Kadin.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Giyim",
+        "slug": "/kadin-giyim",
+        "options": {
+          "category": [522],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Elbise",
+            "slug": "/kadin-elbise",
+            "options": {
+              "category": [1182],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tişört",
+            "slug": "/kadin-t-shirt",
+            "options": {
+              "category": [604],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Gömlek",
+            "slug": "/kadin-gomlek",
+            "options": {
+              "category": [597],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kot Pantolon",
+            "slug": "/kadin-kot-pantolon",
+            "options": {
+              "category": [1186],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kot Ceket",
+            "slug": "/kadin-kot-ceket",
+            "options": {
+              "category": [594, 3195, 2773, 5320, 2972],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Pantolon",
+            "slug": "/kadin-pantolon",
+            "options": {
+              "category": [529],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Mont",
+            "slug": "/kadin-mont",
+            "options": {
+              "category": [535],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bluz",
+            "slug": "/kadin-bluz",
+            "options": {
+              "category": [590],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Ceket",
+            "slug": "/kadin-ceket",
+            "options": {
+              "category": [594],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Etek",
+            "slug": "/kadin-etek",
+            "options": {
+              "category": [526],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kazak",
+            "slug": "/kadin-kazak",
+            "options": {
+              "category": [599],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Tesettür",
+            "slug": "/kadin-tesettür",
+            "options": {
+              "category": [
+                2729, 2731, 2752, 2768, 2746, 721, 2736, 2739, 2770, 2773, 2875,
+                2748, 2766, 2734, 2740, 2741, 2737, 2754, 2772, 2762, 2774,
+                2753, 2765, 2756, 2749, 2759, 2743, 2767, 2776, 2758
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Büyük Beden",
+            "slug": "/kadin-buyuk-beden",
+            "options": {
+              "category": [
+                2969, 2962, 2966, 2970, 2964, 3610, 2968, 2974, 5306, 5312,
+                2971, 2977, 5310, 2972, 2983, 2965, 2982, 2963, 5326, 5311,
+                5305, 5314, 2980, 2981, 2979, 2973, 2967, 2976, 5328, 2975
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Trençkot",
+            "slug": "/kadin-trenckot",
+            "options": {
+              "category": [540],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Yağmurluk & Rüzgarlık",
+            "slug": "/kadin-yagmurluk-ruzgarlik",
+            "options": {
+              "category": [541],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sweatshirt",
+            "slug": "/kadin-sweatshirt",
+            "options": {
+              "category": [601],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kaban",
+            "slug": "/kadin-kaban",
+            "options": {
+              "category": [534],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Hırka",
+            "slug": "/kadin-hirka",
+            "options": {
+              "category": [598],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Palto",
+            "slug": "/kadin-palto",
+            "options": {
+              "category": [536],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Ayakkabı",
+        "slug": "/kadin-ayakkabi",
+        "options": {
+          "category": [403],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Topuklu Ayakkabı",
+            "slug": "/kadin-topuklu-ayakkabi",
+            "options": {
+              "category": [430, 434, 431, 432],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/kadin-sneaker",
+            "options": {
+              "category": [975],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/kadin-gunluk-ayakkabi",
+            "options": {
+              "category": [1171, 410, 411, 412, 416, 1825, 1826],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Babet",
+            "slug": "/kadin-babet",
+            "options": {
+              "category": [410],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sandalet",
+            "slug": "/kadin-sandalet",
+            "options": {
+              "category": [418],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/kadin-bot",
+            "options": {
+              "category": [407],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Çizme",
+            "slug": "/kadin-cizme",
+            "options": {
+              "category": [408],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kar Botu",
+            "slug": "/kadin-kar-botu",
+            "options": {
+              "category": [3182],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Loafer",
+            "slug": "/kadin-loafer",
+            "options": {
+              "category": [1826],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Aksesuar & Çanta",
+        "slug": "/kadin-aksesuar",
+        "options": {
+          "category": [368],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Çanta",
+            "slug": "/kadin-canta",
+            "options": {
+              "category": [
+                435, 971, 2197, 447, 448, 446, 436, 1784, 449, 450, 974, 1855,
+                1856, 973
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Saat",
+            "slug": "/kadin-saat",
+            "options": {
+              "category": [387],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Takı ",
+            "slug": "/kadin-taki",
+            "options": {
+              "category": [
+                396, 399, 397, 401, 2253, 3078, 400, 2872, 726, 2874, 1263,
+                3497, 724
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Cüzdan",
+            "slug": "/kadin-cuzdan",
+            "options": {
+              "category": [1806],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Atkı",
+            "slug": "/kadin-atki",
+            "options": {
+              "category": [382],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bere",
+            "slug": "/kadin-bere",
+            "options": {
+              "category": [384],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Eldiven",
+            "slug": "/kadin-eldiven",
+            "options": {
+              "category": [385],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kemer",
+            "slug": "/kadin-kemer",
+            "options": {
+              "category": [380],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Şal",
+            "slug": "/kadin-sal",
+            "options": {
+              "category": [393],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Çanta",
+        "slug": "/kadin-canta",
+        "options": {
+          "category": [435],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Omuz Çantası",
+            "slug": "/kadin-omuz-cantasi",
+            "options": {
+              "category": [971],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sırt Çantası",
+            "slug": "/kadin-sirt-cantasi",
+            "options": {
+              "category": [448],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bel Çantası",
+            "slug": "/kadin-bel-cantasi",
+            "options": {
+              "category": [1784],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Okul Çantası",
+            "slug": "/kadin-okul-cantasi",
+            "options": {
+              "category": [974],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Laptop Çantası",
+            "slug": "/kadin-laptop-cantasi",
+            "options": {
+              "category": [444],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Portföy",
+            "slug": "/kadin-portfoy",
+            "options": {
+              "category": [446],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Postacı Çantası",
+            "slug": "/kadin-postaci-cantasi",
+            "options": {
+              "category": [447],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "El Çantası",
+            "slug": "/kadin-el-cantasi",
+            "options": {
+              "category": [2197],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kanvas Çanta",
+            "slug": "/kadin-kanvas-canta",
+            "options": {
+              "category": [
+                971, 969, 447, 448, 2197, 970, 1784, 444, 974, 449, 436, 973
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Makyaj Çantası",
+            "slug": "/kadin-makyaj-cantasi",
+            "options": {
+              "category": [970],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Abiye Çanta",
+            "slug": "/kadin-abiye-canta",
+            "options": {
+              "category": [436],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Çapraz Çanta",
+            "slug": "/kadin-capraz-canta",
+            "options": {
+              "category": [971, 447, 436, 444],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bez Çanta",
+            "slug": "/bez-canta",
+            "options": {
+              "category": [
+                971, 969, 970, 1784, 448, 1856, 447, 974, 449, 5264, 2830, 444,
+                1784, 3702, 973
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Anne Bebek Çantası",
+            "slug": "/kadin-bebek-bakim-cantasi",
+            "options": {
+              "category": [1856],
+              "gender": false
+            }
+          },
+          {
+            "title": "Evrak Çantası",
+            "slug": "/dosya-cantasi",
+            "options": {
+              "category": [
+                2849, 444, 974, 2197, 2989, 971, 448, 446, 3450, 447, 2842
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tote Çanta",
+            "slug": "/kadin-tote-canta",
+            "options": {
+              "category": [971, 2197],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Beslenme Çantası",
+            "slug": "/kadin-beslenme-cantasi",
+            "options": {
+              "category": [973],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kartlık",
+            "slug": "/kadin-cuzdan-kartlik",
+            "options": {
+              "category": [1806, 1807],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Cüzdan",
+            "slug": "/kadin-cuzdan",
+            "options": {
+              "category": [1806],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kadın Spor Çantası",
+            "slug": "/kadin-spor-cantasi",
+            "options": {
+              "category": [449],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "İç Giyim",
+        "slug": "/kadin-ic-giyim",
+        "options": {
+          "category": [549],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Pijama Takımı",
+            "slug": "/kadin-pijama-takimi",
+            "options": {
+              "category": [563],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Gecelik",
+            "slug": "/kadin-gecelik",
+            "options": {
+              "category": [553],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sütyen",
+            "slug": "/kadin-sutyen",
+            "options": {
+              "category": [567],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "İç Çamaşırı Takımları",
+            "slug": "/kadin-ic-camasiri-takimlari",
+            "options": {
+              "category": [2144],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Fantezi Giyim",
+            "slug": "/kadin-fantezi-giyim",
+            "options": {
+              "category": [
+                3095, 3110, 3097, 3103, 3098, 3100, 3104, 3106, 3102, 3108,
+                3109, 3111, 3099, 3107, 3101, 3105
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Çorap",
+            "slug": "/kadin-corap",
+            "options": {
+              "category": [550],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Korse",
+            "slug": "/kadin-korse",
+            "options": {
+              "category": [560],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Külot",
+            "slug": "/kadin-kulot",
+            "options": {
+              "category": [1016],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Büstiyer",
+            "slug": "/kadin-bustiyer",
+            "options": {
+              "category": [593],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bralet",
+            "slug": "/kadin-bralet",
+            "options": {
+              "category": [567, 1027, 3109],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Atlet & Body",
+            "slug": "/kadin-atlet",
+            "options": {
+              "category": [603],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kombinezon",
+            "slug": "/kadin-kombinezon",
+            "options": {
+              "category": [555],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Jartiyer",
+            "slug": "/kadin-jartiyer",
+            "options": {
+              "category": [558],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Kozmetik",
+        "slug": "/kadin-kozmetik",
+        "options": {
+          "category": [1070],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Parfüm",
+            "slug": "/kadin-parfum",
+            "options": {
+              "category": [661],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Göz Makyajı",
+            "slug": "/kadin-goz-makyaji",
+            "options": {
+              "category": [
+                645, 647, 650, 646, 648, 4828, 649, 1536, 4827, 4829, 2880
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cilt Bakım",
+            "slug": "/cilt-bakim",
+            "options": {
+              "category": [1203, 4821, 4770, 740, 4965, 628, 670, 612, 4808],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Bakımı",
+            "slug": "/sac-bakimi",
+            "options": {
+              "category": [
+                1209, 665, 667, 744, 1017, 1210, 2162, 2163, 2948, 2957, 3629,
+                3959, 4834, 4835, 4836
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Makyaj",
+            "slug": "/makyaj",
+            "options": {
+              "category": [641, 642, 645, 651, 652, 2952, 4830, 4832],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Ağız Bakım",
+            "slug": "/agiz-bakim",
+            "options": {
+              "category": [1201, 625, 626, 1526, 1527, 2406, 2407, 2408, 4769],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Cinsel Sağlık",
+            "slug": "/cinsel-saglik",
+            "options": {
+              "category": [741, 1769, 4888, 5233, 5240, 5267, 5239, 5238, 3098],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Bakım",
+            "slug": "/vucut-bakim",
+            "options": {
+              "category": [670, 671, 746, 749, 4819, 4820],
+              "gender": false
+            }
+          },
+          {
+            "title": "Hijyenik Ped",
+            "slug": "/hijyenik-ped",
+            "options": {
+              "category": [636],
+              "gender": false
+            }
+          },
+          {
+            "title": "Duş Jeli & Kremleri",
+            "slug": "/dus-jeli-ve-kremleri",
+            "options": {
+              "category": [629],
+              "gender": false
+            }
+          },
+          {
+            "title": "Epilasyon Ürünleri",
+            "slug": "/epilasyon-urunleri",
+            "options": {
+              "category": [2430, 3090],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ruj",
+            "slug": "/ruj",
+            "options": {
+              "category": [644],
+              "gender": false
+            }
+          },
+          {
+            "title": "Dudak Nemlendirici",
+            "slug": "/dudak-nemlendiricisi",
+            "options": {
+              "category": [611],
+              "gender": false
+            }
+          },
+          {
+            "title": "Aydınlatıcı & Highlighter",
+            "slug": "/aydinlatici",
+            "options": {
+              "category": [2147],
+              "gender": false
+            }
+          },
+          {
+            "title": "Eyeliner",
+            "slug": "/eyeliner",
+            "options": {
+              "category": [646],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ten Makyajı",
+            "slug": "/ten-makyaji",
+            "options": {
+              "category": [
+                652, 610, 653, 654, 656, 943, 1534, 2147, 2148, 2992
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Manikür & Pedikür",
+            "slug": "/manikur-pedikur-aletleri",
+            "options": {
+              "category": [4811],
+              "gender": false
+            }
+          },
+          {
+            "title": "BB & CC Krem",
+            "slug": "/bb-cc-krem",
+            "options": {
+              "category": [610],
+              "gender": false
+            }
+          },
+          {
+            "title": "El Kremi",
+            "slug": "/el-kremi",
+            "options": {
+              "category": [4810],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yüz Nemlendirici",
+            "slug": "/yuz-kremi",
+            "options": {
+              "category": [615],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Spor & Outdoor",
+        "slug": "/kadin-spor-outdoor",
+        "options": {
+          "category": [3186],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Sweatshirt",
+            "slug": "/kadin-spor-sweatshirt",
+            "options": {
+              "category": [3213],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Tişört",
+            "slug": "/kadin-spor-t-shirt",
+            "options": {
+              "category": [3214],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Spor Sütyeni",
+            "slug": "/kadin-spor-sutyeni",
+            "options": {
+              "category": [1027],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Tayt",
+            "slug": "/kadin-spor-tayt",
+            "options": {
+              "category": [3194],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Eşofman",
+            "slug": "/kadin-esofman",
+            "options": {
+              "category": [3188, 3189],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Koşu Ayakkabısı ",
+            "slug": "/kadin-spor-ayakkabi",
+            "options": {
+              "category": [
+                420, 975, 429, 425, 427, 3929, 426, 421, 422, 428, 2722
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Spor Çantası",
+            "slug": "/spor-cantasi",
+            "options": {
+              "category": [449],
+              "gender": false
+            }
+          },
+          {
+            "title": "Spor Ekipmanları",
+            "slug": "/spor-ekipmanlari",
+            "options": {
+              "category": [1038, 1596, 826, 827, 2214, 2045, 2235, 1597],
+              "gender": false
+            }
+          },
+          {
+            "title": "Outdoor Ayakkabı",
+            "slug": "/kadin-outdoor-ayakkabi",
+            "options": {
+              "category": [427],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kar Botu",
+            "slug": "/kadin-kar-botu",
+            "options": {
+              "category": [3182],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Outdoor Ekipmanları",
+            "slug": "/outdoor-ekipmanlari",
+            "options": {
+              "category": [
+                2071, 3239, 2703, 5261, 2202, 5436, 2036, 3825, 2039, 2060
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sporcu Besinleri",
+            "slug": "/sporcu-besini-supplementler",
+            "options": {
+              "category": [
+                1813, 4859, 1814, 1815, 1816, 1817, 1818, 1819, 1820, 4086
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sporcu Aksesuarları",
+            "slug": "/kadin-sporcu-aksesuarlari",
+            "options": {
+              "category": [826, 3204, 3215],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Outdoor Çanta",
+            "slug": "/dagci-cantasi",
+            "options": {
+              "category": [448],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kayak Malzemeleri",
+            "slug": "/kayak-ve-snowboard",
+            "options": {
+              "category": [1597, 5277, 5276, 5275, 4526, 5278],
+              "gender": false
+            }
+          },
+          {
+            "title": "Uyku Tulumu",
+            "slug": "/cadir-uyku-tulumu",
+            "options": {
+              "category": [2079],
+              "gender": false
+            }
+          },
+          {
+            "title": "Mat",
+            "slug": "/pilates-minder-ve-mat",
+            "options": {
+              "category": [3549],
+              "gender": false
+            }
+          },
+          {
+            "title": "Dağcılık",
+            "slug": "/kamp-mutfak-urunleri",
+            "options": {
+              "category": [1037, 3728, 5264, 2074, 2077, 3901, 2075],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kadın Spor Ceket",
+            "slug": "/kadin-spor-ceket",
+            "options": {
+              "category": [3195],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/kadin-spor-ayakkabi",
+            "options": {
+              "category": [975, 429, 425, 427, 3929, 426, 421, 422, 428, 2722],
+              "gender": "women"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Erkek",
+    "webUrl": "/butik/liste/2/erkek",
+    "image": "/mobile/web-navigation/V2/Erkek.svg  ",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Giyim",
+        "slug": "/erkek-giyim",
+        "options": {
+          "category": [522],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Tişört",
+            "slug": "/erkek-t-shirt",
+            "options": {
+              "category": [604],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Şort",
+            "slug": "/erkek-sort",
+            "options": {
+              "category": [530],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Gömlek",
+            "slug": "/erkek-gomlek",
+            "options": {
+              "category": [597],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Eşofman",
+            "slug": "/erkek-esofman",
+            "options": {
+              "category": [1183, 525, 586],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Pantolon",
+            "slug": "/erkek-pantolon",
+            "options": {
+              "category": [529],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Ceket",
+            "slug": "/erkek-ceket",
+            "options": {
+              "category": [594],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kot Pantolon",
+            "slug": "/erkek-jean",
+            "options": {
+              "category": [1186],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Yelek",
+            "slug": "/erkek-yelek",
+            "options": {
+              "category": [606],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kazak",
+            "slug": "/erkek-kazak",
+            "options": {
+              "category": [599],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Mont",
+            "slug": "/erkek-mont",
+            "options": {
+              "category": [535],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Takım Elbise",
+            "slug": "/erkek-takim-elbise",
+            "options": {
+              "category": [588],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Sweatshirt",
+            "slug": "/erkek-sweatshirt",
+            "options": {
+              "category": [601],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Deri Mont",
+            "slug": "/erkek-deri-mont",
+            "options": {
+              "category": [535],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kaban",
+            "slug": "/erkek-kaban",
+            "options": {
+              "category": [534],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Hırka",
+            "slug": "/erkek-hirka",
+            "options": {
+              "category": [598],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Trençkot",
+            "slug": "/erkek-trenckot",
+            "options": {
+              "category": [540],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Palto",
+            "slug": "/erkek-palto",
+            "options": {
+              "category": [536],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Yağmurluk",
+            "slug": "/erkek-yagmurluk-ruzgarlik",
+            "options": {
+              "category": [541],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Blazer",
+            "slug": "/erkek-blazer-ceket",
+            "options": {
+              "category": [5320],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Polar",
+            "slug": "/erkek-polar",
+            "options": {
+              "category": [1185],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Ayakkabı",
+        "slug": "/erkek-ayakkabi",
+        "options": {
+          "category": [403],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/erkek-spor-ayakkabi",
+            "options": {
+              "category": [
+                975, 429, 425, 427, 3929, 426, 421, 422, 428, 2722, 420
+              ],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/erkek-gunluk-ayakkabi",
+            "options": {
+              "category": [1171, 410, 411, 412, 416, 1825, 1826],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Yürüyüş Ayakkabısı",
+            "slug": "/erkek-yuruyus-ayakkabisi",
+            "options": {
+              "category": [429],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Krampon",
+            "slug": "/krampon",
+            "options": {
+              "category": [3929],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/erkek-sneaker",
+            "options": {
+              "category": [975],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Klasik",
+            "slug": "/erkek-klasik-ayakkabi",
+            "options": {
+              "category": [416],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/erkek-bot",
+            "options": {
+              "category": [406],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kar Botu",
+            "slug": "/erkek-kar-botu",
+            "options": {
+              "category": [3182],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Deri ayakkabı",
+            "slug": "/erkek-deri-ayakkabi",
+            "options": {
+              "category": [1171, 420, 406, 417, 1170, 430],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Loafer",
+            "slug": "/erkek-loafer",
+            "options": {
+              "category": [1826],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Ev Terliği",
+            "slug": "/erkek-ev-terligi",
+            "options": {
+              "category": [958],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Koşu Ayakkabısı",
+            "slug": "/erkek-kosu-ayakkabisi",
+            "options": {
+              "category": [425],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Çizme",
+            "slug": "/erkek-cizme",
+            "options": {
+              "category": [408],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Kişisel Bakım",
+        "slug": "/erkek-kozmetik",
+        "options": {
+          "category": [1070],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Parfüm",
+            "slug": "/erkek-parfum",
+            "options": {
+              "category": [661],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Cinsel Sağlık",
+            "slug": "/cinsel-saglik",
+            "options": {
+              "category": [741, 1769, 4888, 5233, 5240, 5267, 5239, 5238, 3098],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tıraş Sonrası Ürünler",
+            "slug": "/erkek-tiras-losyonlari",
+            "options": {
+              "category": [
+                1070, 1541, 2426, 640, 2162, 661, 662, 474, 629, 671, 3012, 615
+              ],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Tıraş Bıçağı",
+            "slug": "/tiras-bicagi",
+            "options": {
+              "category": [639],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Deodorant",
+            "slug": "/erkek-deodorant",
+            "options": {
+              "category": [2426],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Çanta",
+        "slug": "/erkek-canta",
+        "options": {
+          "category": [435],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Sırt Çantası",
+            "slug": "/erkek-sirt-cantasi",
+            "options": {
+              "category": [448],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Spor Çanta",
+            "slug": "/erkek-spor-cantasi",
+            "options": {
+              "category": [449],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Laptop Çantası",
+            "slug": "/erkek-laptop-cantasi",
+            "options": {
+              "category": [444],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Valiz & Bavul",
+            "slug": "/erkek-valiz",
+            "options": {
+              "category": [450],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Postacı Çantası",
+            "slug": "/erkek-postaci-cantasi",
+            "options": {
+              "category": [447],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bel Çantası",
+            "slug": "/erkek-bel-cantasi",
+            "options": {
+              "category": [1784],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bez Çanta",
+            "slug": "/bez-canta",
+            "options": {
+              "category": [
+                971, 969, 970, 1784, 448, 1856, 447, 974, 449, 5264, 2830, 444,
+                1784, 3702, 973
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Evrak Çantası",
+            "slug": "/dosya-cantasi",
+            "options": {
+              "category": [
+                2849, 444, 974, 2197, 2989, 971, 448, 446, 3450, 447, 2842
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cüzdan",
+            "slug": "/erkek-cuzdan",
+            "options": {
+              "category": [1806],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Büyük Beden",
+        "slug": "/erkek-buyuk-beden",
+        "options": {
+          "category": [2961],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Büyük Beden Sweatshirt",
+            "slug": "/erkek-buyuk-beden-sweatshirt",
+            "options": {
+              "category": [2967],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden T-shirt",
+            "slug": "/erkek-buyuk-beden-t-shirt",
+            "options": {
+              "category": [2969],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Gömlek",
+            "slug": "/erkek-buyuk-beden-gomlek",
+            "options": {
+              "category": [2964],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Pantolon",
+            "slug": "/erkek-buyuk-beden-pantolon",
+            "options": {
+              "category": [2966],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Mont",
+            "slug": "/erkek-buyuk-beden-mont",
+            "options": {
+              "category": [2976],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Kazak",
+            "slug": "/erkek-buyuk-beden-kazak",
+            "options": {
+              "category": [2978],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Hırka",
+            "slug": "/erkek-buyuk-beden-hirka",
+            "options": {
+              "category": [2977],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Kaban",
+            "slug": "/erkek-buyuk-beden-kaban",
+            "options": {
+              "category": [2975],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Büyük Beden Eşofman Altı",
+            "slug": "/erkek-buyuk-beden-esofman-alti",
+            "options": {
+              "category": [2974],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Saat & Aksesuar",
+        "slug": "/erkek-aksesuar",
+        "options": {
+          "category": [
+            396, 387, 1806, 3243, 435, 1165, 371, 394, 384, 385, 2876, 2956,
+            1797, 1798, 2878, 392, 393, 395, 3074
+          ],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Saat",
+            "slug": "/erkek-saat",
+            "options": {
+              "category": [387],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Güneş Gözlüğü",
+            "slug": "/erkek-gunes-gozlugu",
+            "options": {
+              "category": [379],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Cüzdan",
+            "slug": "/erkek-cuzdan",
+            "options": {
+              "category": [1806],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kemer",
+            "slug": "/erkek-kemer",
+            "options": {
+              "category": [380],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Çanta",
+            "slug": "/erkek-canta",
+            "options": {
+              "category": [435],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Şapka",
+            "slug": "/erkek-sapka",
+            "options": {
+              "category": [394],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kartlık",
+            "slug": "/erkek-cuzdan-kartlik",
+            "options": {
+              "category": [1807],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Valiz",
+            "slug": "/erkek-valiz",
+            "options": {
+              "category": [450],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Kravat",
+            "slug": "/erkek-kravat",
+            "options": {
+              "category": [1798],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Boyunluk",
+            "slug": "/erkek-boyunluk",
+            "options": {
+              "category": [962],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Atkı",
+            "slug": "/erkek-atki",
+            "options": {
+              "category": [382],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bere",
+            "slug": "/erkek-bere",
+            "options": {
+              "category": [384],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Eldiven",
+            "slug": "/erkek-eldiven",
+            "options": {
+              "category": [385],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "İç Giyim",
+        "slug": "/erkek-ic-giyim",
+        "options": {
+          "category": [
+            570, 571, 1016, 2142, 2144, 603, 574, 553, 1041, 3095, 561, 560,
+            575, 2358
+          ],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Boxer",
+            "slug": "/erkek-boxer",
+            "options": {
+              "category": [570],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Çorap",
+            "slug": "/erkek-corap",
+            "options": {
+              "category": [550],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Pijama",
+            "slug": "/erkek-pijama",
+            "options": {
+              "category": [561],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Atlet",
+            "slug": "/erkek-atlet",
+            "options": {
+              "category": [603],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "İçlik",
+            "slug": "/erkek-iclik",
+            "options": {
+              "category": [1041],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Spor & Outdoor",
+        "slug": "/erkek-spor-outdoor",
+        "options": {
+          "category": [3186, 3187],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Eşofman",
+            "slug": "/erkek-esofman",
+            "options": {
+              "category": [1183, 525, 586],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/erkek-spor-ayakkabi",
+            "options": {
+              "category": [
+                975, 429, 425, 427, 3929, 426, 421, 422, 428, 2722, 420
+              ],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "T-shirt",
+            "slug": "/erkek-spor-t-shirt",
+            "options": {
+              "category": [3214],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Sweatshirt",
+            "slug": "/erkek-spor-sweatshirt",
+            "options": {
+              "category": [3213],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Forma",
+            "slug": "/forma",
+            "options": {
+              "category": [596],
+              "gender": false
+            }
+          },
+          {
+            "title": "Spor Çorap",
+            "slug": "/erkek-spor-corap",
+            "options": {
+              "category": [3202],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Spor Giyim",
+            "slug": "/erkek-spor-giyim",
+            "options": {
+              "category": [3187],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Outdoor Ayakkabı",
+            "slug": "/erkek-outdoor-ayakkabi",
+            "options": {
+              "category": [427],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Outdoor Bot",
+            "slug": "/erkek-bot",
+            "options": {
+              "category": [406],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Spor Ekipmanları",
+            "slug": "/spor-ekipmanlari",
+            "options": {
+              "category": [1038, 1596, 826, 827, 2214, 2045, 2235, 1597],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Outdoor Ekipmanları",
+            "slug": "/outdoor-ekipmanlari",
+            "options": {
+              "category": [
+                2071, 3239, 2703, 5261, 2202, 5436, 2036, 3825, 2039, 2060
+              ],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Sporcu Besinleri",
+            "slug": "/sporcu-besini-supplementler",
+            "options": {
+              "category": [
+                1813, 4859, 1814, 1815, 1816, 1817, 1818, 1819, 1820, 4086
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sporcu Aksesuarları",
+            "slug": "/sporcu-aksesuarlari",
+            "options": {
+              "category": [
+                3215, 3219, 3204, 4613, 3217, 3216, 3745, 3746, 3788, 3618,
+                1600, 3595, 3789, 3621, 3622, 3620, 3619, 3824, 4701
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/erkek-sneaker",
+            "options": {
+              "category": [975],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Scooter",
+            "slug": "/scooter",
+            "options": {
+              "category": [2211],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bisiklet",
+            "slug": "/bisiklet",
+            "options": {
+              "category": [2044],
+              "gender": false
+            }
+          },
+          {
+            "title": "Dalış Malzemeleri",
+            "slug": "/dalis-malzemeleri",
+            "options": {
+              "category": [
+                2038, 2046, 2047, 2048, 2049, 2050, 2051, 3241, 3495, 3915,
+                3916, 3917, 3918, 3919, 3920, 3921, 3922, 3923, 3924, 3925,
+                3926, 3927, 3928, 2051, 2049
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Rüzgarlık",
+            "slug": "/erkek-yagmurluk-ruzgarlik",
+            "options": {
+              "category": [541],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Aksiyon Kamerası",
+            "slug": "/aksiyon-kamera",
+            "options": {
+              "category": [2709],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kamp Malzemeleri",
+            "slug": "/kamp-malzemeleri",
+            "options": {
+              "category": [
+                1037, 2069, 3240, 3731, 2070, 2073, 2042, 3730, 2958, 3729,
+                3531, 4536, 2068, 2041, 3732, 5272, 5329, 2066
+              ],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Elektronik",
+        "slug": "/elektronik",
+        "options": {
+          "category": [
+            464, 2373, 775, 1215, 3719, 4939, 5337, 1592, 1221, 760, 4938, 1217,
+            1222, 1212, 786
+          ],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Tıraş Makinesi",
+            "slug": "/tiras-makinesi",
+            "options": {
+              "category": [474],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cep Telefonu",
+            "slug": "/cep-telefonu",
+            "options": {
+              "category": [3719, 3718, 3720],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Akıllı Saat",
+            "slug": "/akilli-saat",
+            "options": {
+              "category": [1890],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Akıllı Bileklik",
+            "slug": "/akilli-bileklik",
+            "options": {
+              "category": [1889],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Laptop",
+            "slug": "/laptop",
+            "options": {
+              "category": [5337],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Oyun & Konsollar",
+            "slug": "/oyun-ve-oyun-konsollari",
+            "options": {
+              "category": [786],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Elektrikli Bisiklet",
+            "slug": "/elektrikli-bisikler",
+            "options": {
+              "category": [3716],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "E-pin ve Cüzdan Kodu",
+            "slug": "/e-pin-ve-cuzdan-kodu",
+            "options": {
+              "category": [3000],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Playstation 5",
+            "slug": "/playstation-5",
+            "options": {
+              "category": [4848],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Hediye Kartları",
+            "slug": "/hediye-kartlari",
+            "options": {
+              "category": [3001],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bluetooth Kulaklık",
+            "slug": "/bluetooth-kulaklik",
+            "options": {
+              "category": [5195, 5196, 1058],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Gaming PC",
+            "slug": "/oyuncu-masaustu-bilgisayari",
+            "options": {
+              "category": [2697],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Oyuncu Koltuğu",
+            "slug": "/oyuncu-koltugu",
+            "options": {
+              "category": [2835],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Xbox Series X",
+            "slug": "/x-box-series-x",
+            "options": {
+              "category": [1905],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Drone",
+            "slug": "/drone",
+            "options": {
+              "category": [3003],
+              "gender": "men"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Anne & Çocuk",
+    "webUrl": "/butik/liste/3/cocuk",
+    "image": "/mobile/web-navigation/V2/Anne_Cocuk.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Bebek",
+        "slug": "/bebek-giyim",
+        "options": {
+          "category": [947, 4979, 948, 936],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Bebek Takımları",
+            "slug": "/bebek-takimlari",
+            "options": {
+              "category": [947],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ayakkabı",
+            "webUrl": "/ilk-adim-ayakkabisi-y-s4263-sorulacak"
+          },
+          {
+            "title": "Hastane Çıkışı",
+            "slug": "/hastane-cikisi",
+            "options": {
+              "category": [948],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yenidoğan Kıyafetleri",
+            "webUrl": "/yenidogan-bebek-kiyafetleri-y-s8230-sorulacak"
+          },
+          {
+            "title": "Tulum",
+            "slug": "/bebek-tulum",
+            "options": {
+              "category": [2866],
+              "gender": false
+            }
+          },
+          {
+            "title": "Body & Zıbın",
+            "slug": "/bebek-body-zibin",
+            "options": {
+              "category": [936],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tişört & Atlet",
+            "slug": "/cocuk-t-shirt",
+            "options": {
+              "category": [604],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Elbise",
+            "slug": "/kiz-bebek-elbise",
+            "options": {
+              "category": [1182],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şort",
+            "slug": "/bebek-sort",
+            "options": {
+              "category": [530],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bebek Patiği",
+            "slug": "/bebek-patigi",
+            "options": {
+              "category": [959],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Hırka",
+            "slug": "/cocuk-hirka",
+            "options": {
+              "category": [598],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Battaniye",
+            "slug": "/bebek-battaniyesi",
+            "options": {
+              "category": [2365],
+              "gender": false
+            }
+          },
+          {
+            "title": "Alt Üst Takım",
+            "slug": "/bebek-takimlari",
+            "options": {
+              "category": [947],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tişört",
+            "slug": "/bebek-tisort",
+            "options": {
+              "category": [604],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Etek",
+            "slug": "/bebek-etek",
+            "options": {
+              "category": [526],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Çorap",
+            "slug": "/bebek-corabi",
+            "options": {
+              "category": [550],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şapka",
+            "slug": "/bebek-sapkasi",
+            "options": {
+              "category": [394],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Eldiven",
+            "slug": "/bebek-eldiveni",
+            "options": {
+              "category": [385],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Eşofman",
+            "slug": "/bebek-esofman-takimi",
+            "options": {
+              "category": [586],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bere",
+            "slug": "/cocuk-bere",
+            "options": {
+              "category": [384],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Kız Çocuk",
+        "webUrl": "/sr/cocuk-giyim-x-g3-c82?gag=1-2",
+        "children": [
+          {
+            "title": "Elbise",
+            "slug": "/kiz-cocuk-elbise",
+            "options": {
+              "category": [1182],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Sweatshirt",
+            "slug": "/kiz-cocuk-sweatshirt",
+            "options": {
+              "category": [1182],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/cocuk-spor-ayakkabi",
+            "options": {
+              "category": [420],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Eşofman",
+            "slug": "/cocuk-esofman",
+            "options": {
+              "category": [1183, 525, 586],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "İç Giyim & Pijama",
+            "slug": "/cocuk-ic-giyim",
+            "options": {
+              "category": [549, 561, 603, 1016, 2144, 2358],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Tişört & Atlet",
+            "slug": "/cocuk-t-shirt",
+            "options": {
+              "category": [604],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Tayt",
+            "slug": "/cocuk-tayt",
+            "options": {
+              "category": [531],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/cocuk-gunluk-ayakkabi",
+            "options": {
+              "category": [1171],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şort",
+            "slug": "/cocuk-sort",
+            "options": {
+              "category": [530],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Mont",
+            "slug": "/cocuk-mont",
+            "options": {
+              "category": [535],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Çocuk Oyun Evi",
+            "slug": "/cocuk-oyun-evi",
+            "options": {
+              "category": [2921, 1198, 2164],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Oyuncak Bebek",
+            "slug": "/oyuncak-bebek",
+            "options": {
+              "category": [4516],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Oyuncak Mutfak",
+            "slug": "/oyuncak-mutfak",
+            "options": {
+              "category": [4504],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Kaban",
+            "slug": "/cocuk-kaban",
+            "options": {
+              "category": [534],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Abiye & Elbise",
+            "slug": "/kiz-cocuk-abiye-elbise",
+            "options": {
+              "category": [543],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Ceket",
+            "slug": "/cocuk-ceket",
+            "options": {
+              "category": [594],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Pantolon",
+            "slug": "/cocuk-pantolon",
+            "options": {
+              "category": [529],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Kazak",
+            "slug": "/cocuk-kazak",
+            "options": {
+              "category": [599],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/cocuk-bot",
+            "options": {
+              "category": [406],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şapka & Bere & Eldiven",
+            "slug": "/cocuk-sapka-bere-eldiven",
+            "options": {
+              "category": [394, 1162],
+              "gender": "child"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Erkek Çocuk",
+        "slug": "/erkek-cocuk-giyim",
+        "options": {
+          "category": [604, 601, 586, 549, 550, 530, 529, 597, 1181, 1186],
+          "gender": "child"
+        },
+        "children": [
+          {
+            "title": "Sweatshirt",
+            "slug": "/cocuk-sweatshirt",
+            "options": {
+              "category": [1182],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/cocuk-spor-ayakkabi",
+            "options": {
+              "category": [420],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Eşofman",
+            "slug": "/cocuk-esofman",
+            "options": {
+              "category": [1183, 525, 586],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "İç Giyim & Pijama",
+            "slug": "/cocuk-ic-giyim",
+            "options": {
+              "category": [549, 561, 603, 1016, 2144, 2358],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Tişört & Atlet",
+            "slug": "/cocuk-t-shirt",
+            "options": {
+              "category": [604],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/cocuk-gunluk-ayakkabi",
+            "options": {
+              "category": [1171],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Okul Çantası",
+            "slug": "/cocuk-okul-cantasi",
+            "options": {
+              "category": [974],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şort",
+            "slug": "/cocuk-sort",
+            "options": {
+              "category": [530],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Gömlek",
+            "slug": "/cocuk-gomlek",
+            "options": {
+              "category": [597],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Mont",
+            "slug": "/cocuk-mont",
+            "options": {
+              "category": [535],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Oyuncak Traktör",
+            "slug": "/oyuncak-traktor",
+            "options": {
+              "category": [2255, 4514, 1015, 4511],
+              "gender": false
+            }
+          },
+          {
+            "title": "Akülü Araba",
+            "slug": "/akulu-araba",
+            "options": {
+              "category": [1782],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Kumandalı Araba",
+            "slug": "/kumandali-araba",
+            "options": {
+              "category": [2232],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bisiklet",
+            "slug": "/bisiklet",
+            "options": {
+              "category": [2044],
+              "gender": false
+            }
+          },
+          {
+            "title": "Boxer",
+            "slug": "/cocuk-boxer",
+            "options": {
+              "category": [570],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "İçlik",
+            "slug": "/cocuk-iclik",
+            "options": {
+              "category": [1041],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/cocuk-bot",
+            "options": {
+              "category": [406],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Krampon",
+            "slug": "/cocuk-krampon",
+            "options": {
+              "category": [3929],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Şapka & Bere & Eldiven",
+            "slug": "/cocuk-sapka-bere-eldiven",
+            "options": {
+              "category": [394, 1162],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Takım Elbise",
+            "slug": "/cocuk-takim-elbise",
+            "options": {
+              "category": [588],
+              "gender": "child"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Bebek Bakım",
+        "slug": "/anne-bebek-bakim",
+        "options": {
+          "category": [2861, 998, 997, 1000, 1004],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Bebek Bezi",
+            "slug": "/bebek-bezi",
+            "options": {
+              "category": [1002],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Şampuanı",
+            "slug": "/bebek-sampuani",
+            "options": {
+              "category": [2338],
+              "gender": false
+            }
+          },
+          {
+            "title": "Krem & Yağlar",
+            "slug": "/bebek-krem-yaglar",
+            "options": {
+              "category": [1000],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Çantası",
+            "slug": "/bebek-bakim-cantasi",
+            "options": {
+              "category": [1856],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Sabunları",
+            "slug": "/bebek-sabunu",
+            "options": {
+              "category": [2337],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Deterjanları",
+            "slug": "/bebek-deterjani",
+            "options": {
+              "category": [3091],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bebek Vücut Kremi",
+            "slug": "/bebek-vucut-kremi",
+            "options": {
+              "category": [1000],
+              "gender": false
+            }
+          },
+          {
+            "title": "Islak Mendil",
+            "slug": "/bebek-islak-mendil",
+            "options": {
+              "category": [1001],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Tarağı",
+            "slug": "/bebek-firca-ve-taragi",
+            "options": {
+              "category": [1007],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Yağı",
+            "slug": "/bebek-yagi",
+            "options": {
+              "category": [1000],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bebek Buhar Makinesi",
+            "slug": "/bebek-buhar-makinesi",
+            "options": {
+              "category": [3013, 5086, 453],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bebek Ateş Ölçer",
+            "slug": "/bebek-ates-olcer",
+            "options": {
+              "category": [5031],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Oyuncak",
+        "slug": "/oyuncak",
+        "options": {
+          "category": [1010],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Eğitici Oyuncaklar",
+            "slug": "/egitici-oyuncaklar",
+            "options": {
+              "category": [1011],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oyuncak Araba",
+            "slug": "/oyuncak-araba",
+            "options": {
+              "category": [2255],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oyuncak Bebek",
+            "slug": "/oyuncak-bebek",
+            "options": {
+              "category": [4516],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek & Okul Öncesi",
+            "slug": "/bebek-ve-okul-oncesi-oyuncaklar",
+            "options": {
+              "category": [1785],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kumandalı Oyuncak",
+            "slug": "/kumandali-oyuncak",
+            "options": {
+              "category": [831],
+              "gender": false
+            }
+          },
+          {
+            "title": "Robot Oyuncak",
+            "slug": "/robot-oyuncak",
+            "options": {
+              "category": [4391],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Beslenme Emzirme",
+        "slug": "/beslenme-emzirme",
+        "options": {
+          "category": [2339],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Biberon & Emzik",
+            "slug": "/biberon-emzik",
+            "options": {
+              "category": [991, 4483, 4482],
+              "gender": false
+            }
+          },
+          {
+            "title": "Göğüs Pompası",
+            "slug": "/gogus-pompasi",
+            "options": {
+              "category": [994],
+              "gender": false
+            }
+          },
+          {
+            "title": "Mama Sandalyesi",
+            "slug": "/mama-sandalyesi",
+            "options": {
+              "category": [979],
+              "gender": false
+            }
+          },
+          {
+            "title": "Mama Önlüğü",
+            "slug": "/mama-onlugu",
+            "options": {
+              "category": [1865],
+              "gender": false
+            }
+          },
+          {
+            "title": "Alıştırma Bardağı",
+            "slug": "/alistirma-bardagi",
+            "options": {
+              "category": [1862],
+              "gender": false
+            }
+          },
+          {
+            "title": "Biberon Temizleyici",
+            "slug": "/biberon-emzik-temizleyici",
+            "options": {
+              "category": [3893],
+              "gender": false
+            }
+          },
+          {
+            "title": "Biberon Seti",
+            "slug": "/biberon-seti",
+            "options": {
+              "category": [991, 4482, 4483],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Maması",
+            "slug": "/bebek-mamasi",
+            "options": {
+              "category": [2341],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kavanoz Mama",
+            "slug": "/kavanoz-mama",
+            "options": {
+              "category": [2342],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sterilizatör",
+            "slug": "/biberon-isitici-sterilizator",
+            "options": {
+              "category": [2233],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Bakım Çantası",
+            "slug": "/bebek-bakim-cantasi",
+            "options": {
+              "category": [1856],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yemek Setleri",
+            "slug": "/yemek-setleri",
+            "options": {
+              "category": [1866],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kaşık Maması",
+            "slug": "/kasik-mamasi",
+            "options": {
+              "category": [2344],
+              "gender": false
+            }
+          },
+          {
+            "title": "Buharlı Pişirici",
+            "slug": "/buharli-pisirici",
+            "options": {
+              "category": [2244, 5226],
+              "gender": false
+            }
+          },
+          {
+            "title": "Termal Çanta",
+            "slug": "/termal-canta",
+            "options": {
+              "category": [5264],
+              "gender": false
+            }
+          },
+          {
+            "title": "Süt Pompası",
+            "slug": "/gogus-pompalari",
+            "options": {
+              "category": [994],
+              "gender": false
+            }
+          },
+          {
+            "title": "Emzirme Önlüğü",
+            "slug": "/emzirme-onlugu",
+            "options": {
+              "category": [1863],
+              "gender": false
+            }
+          },
+          {
+            "title": "Emzirme Minderi",
+            "slug": "/emzirme-minderi",
+            "options": {
+              "category": [1864],
+              "gender": false
+            }
+          },
+          {
+            "title": "Göğüs Pedi",
+            "slug": "/gogus-pedi",
+            "options": {
+              "category": [999],
+              "gender": false
+            }
+          },
+          {
+            "title": "Göğüs Kremi",
+            "slug": "/gogus-ucu-kremi",
+            "options": {
+              "category": [1168],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Taşıma & Güvenlik",
+        "slug": "/cocuk-gerecleri",
+        "options": {
+          "category": [674, 1856, 1177, 978, 981, 977],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Bebek Arabası & Puset",
+            "slug": "/bebek-arabasi-puset",
+            "options": {
+              "category": [977],
+              "gender": false
+            }
+          },
+          {
+            "title": "Park Yatak",
+            "slug": "/park-yatak-ve-oyun-parki",
+            "options": {
+              "category": [1177],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ana Kucağı",
+            "slug": "/ana-kucagi",
+            "options": {
+              "category": [978],
+              "gender": false
+            }
+          },
+          {
+            "title": "Portbebe & Kanguru",
+            "slug": "/Portbebe-kanguru",
+            "options": {
+              "category": [981],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yürüteç",
+            "slug": "/yurutec",
+            "options": {
+              "category": [982],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oto Koltuğu",
+            "slug": "/oto-koltugu",
+            "options": {
+              "category": [980],
+              "gender": false
+            }
+          },
+          {
+            "title": "Baston Puset",
+            "slug": "/baston-bebek-arabasi",
+            "options": {
+              "category": [1809],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kanguru",
+            "slug": "/port-bebe-kanguru-sling",
+            "options": {
+              "category": [981],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Salıncakları",
+            "slug": "/bebek-cocuk-odasi",
+            "options": {
+              "category": [1175],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Bebek Odası",
+        "slug": "/bebek-odasi-takimi",
+        "options": {
+          "category": [2097],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Bebek Beşiği",
+            "slug": "/bebek-besigi",
+            "options": {
+              "category": [2098],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Yatağı",
+            "slug": "/bebek-yatak",
+            "options": {
+              "category": [4995],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Nevresimleri",
+            "slug": "/bebek-nevresim-takimi",
+            "options": {
+              "category": [2367],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oyuncak Sepetleri",
+            "slug": "/oyuncak-sepetleri",
+            "options": {
+              "category": [1884, 1859],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Cibinlik",
+            "slug": "/cibinlik",
+            "options": {
+              "category": [2241],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oyuncak Dolabı",
+            "slug": "/oyuncak-dolabi",
+            "options": {
+              "category": [4996],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Odası Mobilyaları",
+            "slug": "/bebek-odasi-mobilyalari",
+            "options": {
+              "category": [4989],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Oyun Matları",
+            "slug": "/oyun-mati",
+            "options": {
+              "category": [1790, 2848, 1013],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Oyun Parkı",
+            "slug": "/park-yatak-ve-oyun-parki",
+            "options": {
+              "category": [1177],
+              "gender": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Ev & Mobilya",
+    "webUrl": "/butik/liste/12/ev--mobilya",
+    "image": "/mobile/web-navigation/V2/Ev_Mobilya.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Sofra & Mutfak",
+        "webUrl": "/sofra-mutfak-x-c1354",
+        "children": [
+          { "title": "Yemek Takımı", "webUrl": "/yemek-takimi-x-c1208" },
+          {
+            "title": "Çatal Kaşık Bıçak Seti",
+            "webUrl": "/catal-kasik-bicak-x-c108824"
+          },
+          { "title": "Baharat Takımı", "webUrl": "/baharatlik-x-c1009" },
+          { "title": "Bardak", "webUrl": "/bardak-kadeh-x-c101502" },
+          {
+            "title": "Fırın & Kek Kalıbı",
+            "webUrl": "/firin-kek-kaliplari-x-c101504"
+          },
+          { "title": "Çaydanlık", "webUrl": "/caydanlik-x-c1035" },
+          { "title": "Tencere Seti", "webUrl": "/tencere-x-c1191" },
+          { "title": "Kadeh", "webUrl": "/kadeh-x-c1076" },
+          {
+            "title": "Servis Tabağı",
+            "webUrl": "/servis-tabagi-x-c143226"
+          },
+          { "title": "Yemek Tabağı", "webUrl": "/yemek-tabagi-x-c143225" }
+        ]
+      },
+      {
+        "title": "Banyo",
+        "webUrl": "/banyo-x-c104166",
+        "children": [
+          {
+            "title": "Havlu & Havlu Seti",
+            "webUrl": "/havlu-havlu-seti-x-c1064"
+          },
+          { "title": "Bornoz", "webUrl": "/bornoz-x-c1024" },
+          { "title": "Banyo Seti", "webUrl": "/banyo-seti-x-c104210" },
+          {
+            "title": "Banyo Paspası",
+            "webUrl": "/banyo-paspasi-x-c109003"
+          },
+          { "title": "Kadın Bornoz", "webUrl": "/kadin-bornoz-x-g1-c1024" },
+          { "title": "Erkek Bornoz", "webUrl": "/erkek-bornoz-x-g2-c1024" },
+          { "title": "Peştamal", "webUrl": "/pestemal-x-c144025" },
+          { "title": "Ayak Havlusu", "webUrl": "/ayak-havlusu-y-s5229" }
+        ]
+      },
+      {
+        "title": "Ev Tekstili",
+        "webUrl": "/ev-tekstili-x-c94",
+        "children": [
+          {
+            "title": "Yatak Odası",
+            "webUrl": "/yatak-odasi-tekstili-x-c104442"
+          },
+          {
+            "title": "Halı & Kilim & Paspas",
+            "webUrl": "/hali-kilim-paspas-x-c101514"
+          },
+          { "title": "Perde", "webUrl": "/perde-x-c1141" },
+          {
+            "title": "Nevresim Takımı",
+            "webUrl": "/nevresim-takimi-x-c1123"
+          },
+          { "title": "Yastık", "webUrl": "/yastik-x-c1206" },
+          {
+            "title": "Kırlent ve Kılıfı",
+            "webUrl": "/kirlent-ve-kirlent-kilifi-x-c104214"
+          },
+          {
+            "title": "Mutfak Havlusu",
+            "webUrl": "/mutfak-havlusu-kurulama-bezi-x-c104440"
+          },
+          { "title": "Uyku Seti", "webUrl": "/uyku-seti-x-c1200" },
+          { "title": "Yatak Örtüsü", "webUrl": "/yatak-ortusu-x-c93" },
+          { "title": "Battaniye", "webUrl": "/battaniye-x-c1013" },
+          { "title": "Yorgan", "webUrl": "/yorgan-x-c1211" },
+          {
+            "title": "Elektrikli Battaniye",
+            "webUrl": "/elektrikli-battaniye-y-s4005"
+          }
+        ]
+      },
+      {
+        "title": "Ev Dekorasyon",
+        "webUrl": "/ev-dekorasyon-x-c95",
+        "children": [
+          {
+            "title": "Dekoratif Aksesuar",
+            "webUrl": "/dekoratif-aksesuarlar-x-c101521"
+          },
+          { "title": "Tablo", "webUrl": "/tablo-x-c1185" },
+          { "title": "Duvar Saati", "webUrl": "/duvar-saati-x-c35" },
+          { "title": "Ayna", "webUrl": "/ayna-x-c107995" },
+          { "title": "Oda Kokusu", "webUrl": "/oda-kokusu-x-c105571" },
+          { "title": "Trendyol Sanat", "webUrl": "/sanat-eseri-x-c142625" }
+        ]
+      },
+      {
+        "title": "Aydınlatma",
+        "webUrl": "/aydinlatma-x-c1365",
+        "children": [
+          { "title": "Avize", "webUrl": "/avize-x-c1366" },
+          { "title": "Lambader", "webUrl": "/lambader-x-c103676" },
+          { "title": "Abajur", "webUrl": "/abajur-x-c101512" }
+        ]
+      },
+      {
+        "title": "Mobilya",
+        "webUrl": "/mobilya-x-c1119",
+        "children": [
+          {
+            "title": "Salon & Oturma Odası",
+            "webUrl": "/salon-oturma-odasi-mobilya-x-c104489"
+          },
+          {
+            "title": "Yatak Odası",
+            "webUrl": "/yatak-odasi-mobilya-x-c104448"
+          },
+          {
+            "title": "Bahçe Mobilyası",
+            "webUrl": "/bahce-mobilyasi-x-c104474"
+          },
+          {
+            "title": "Çalışma Odası",
+            "webUrl": "/calisma-odasi-x-c104201"
+          },
+          {
+            "title": "Yemek Odası",
+            "webUrl": "/yemek-odasi-takimi-x-c104484"
+          },
+          {
+            "title": "Oturma Grupları",
+            "webUrl": "/salon-oturma-odasi-mobilya-x-c104489"
+          },
+          {
+            "title": "Genç Odası",
+            "webUrl": "/genc-odasi-takimi-x-c105465"
+          },
+          {
+            "title": "Koltuk Takımı",
+            "webUrl": "/koltuk-takimi-x-c105457"
+          },
+          {
+            "title": "Mutfak Dolabı",
+            "webUrl": "/mutfak-dolaplari-x-c104507"
+          },
+          { "title": "Şifonyer", "webUrl": "/sifonyer-x-c109216" },
+          {
+            "title": "Mutfak Tezgahı",
+            "webUrl": "/mutfak-tezgahi-y-s21100"
+          },
+          { "title": "Dolap", "webUrl": "/dolap-x-c105328" },
+          { "title": "Gardırop", "webUrl": "/gardirop-x-c108623" },
+          { "title": "Sandalye", "webUrl": "/sandalye-y-s4779" },
+          { "title": "Zigon", "webUrl": "/zigon-x-c104572" }
+        ]
+      },
+      {
+        "title": "Hobi",
+        "webUrl": "/hobi-x-c97",
+        "children": [
+          {
+            "title": "Parti Malzemeleri",
+            "webUrl": "/parti-malzemeleri-x-c1136"
+          },
+          {
+            "title": "Müzik Alet ve Ekipmanları",
+            "webUrl": "/muzik-x-c1357"
+          },
+          {
+            "title": "Hediyelik Ürünler",
+            "webUrl": "/hediyelik-urunler-x-c110312"
+          },
+          {
+            "title": "Hobi Malzemeleri",
+            "webUrl": "/hobi-malzemeleri-x-c104142"
+          },
+          {
+            "title": "Uzaktan Kumandalı Araçlar",
+            "webUrl": "/uzaktan-kumandali-araclar-x-c104569"
+          },
+          {
+            "title": "Drone",
+            "webUrl": "/drone-ve-drone-aksesuarlari-x-c164208"
+          },
+          {
+            "title": "Oyun Grupları",
+            "webUrl": "/oyun-gruplari-x-c108703"
+          },
+          {
+            "title": "Hediye Sepeti",
+            "webUrl": "/hediye-sepeti-x-c108925"
+          },
+          { "title": "Led Işık", "webUrl": "/led-isik-x-c108919" }
+        ]
+      },
+      {
+        "title": "Spor & Outdoor",
+        "webUrl": "/spor-aletleri-x-c104192",
+        "children": [
+          { "title": "Koşu Bandı", "webUrl": "/kosu-bantlari-x-c104277" },
+          {
+            "title": "Dumbell & Ağırlık",
+            "webUrl": "/dambillar-ve-agirlik-plakalari-x-c104287"
+          },
+          {
+            "title": "Pilates & Yoga",
+            "webUrl": "/pilates-malzemeleri-x-c1146"
+          },
+          {
+            "title": "Eliptik Bisiklet",
+            "webUrl": "/eliptik-bisiklet-y-s4014"
+          },
+          { "title": "Yoga Matı", "webUrl": "/yoga-minderi-x-c145839" },
+          {
+            "title": "Sporcu Eldiveni",
+            "webUrl": "/agirlik-eldiveni-kemer-x-c104283"
+          },
+          { "title": "Pilates Topu", "webUrl": "/pilates-topu-x-c109292" },
+          {
+            "title": "Sporcu Sulukları",
+            "webUrl": "/suluk-ve-matara-x-c103714"
+          },
+          { "title": "Termoslar", "webUrl": "/termos-x-c1193" }
+        ]
+      },
+      {
+        "title": "Kitap",
+        "webUrl": "/kitap-x-c91",
+        "children": [
+          {
+            "title": "Sınav Hazırlık Kitapları",
+            "webUrl": "/sinav-hazirlik-kitabi-x-c104360"
+          },
+          {
+            "title": "Ders ve Yardımcı Kitaplar",
+            "webUrl": "/ders-ve-yardimci-kitaplar-x-c104420"
+          },
+          {
+            "title": "Roman & Edebiyat Kitapları",
+            "webUrl": "/roman-hikaye-ve-edebiyat-x-c142659"
+          },
+          {
+            "title": "Kişisel Gelişim & Psikoloji Kitapları",
+            "webUrl": "/kisisel-gelisim-psikoloji-x-c104342"
+          },
+          {
+            "title": "Çocuk Bakım Kitapları",
+            "webUrl": "/aile-cocuk-bakimi-kitabi-x-c104404"
+          },
+          {
+            "title": "Yabancı Dil Eğitim Kitapları",
+            "webUrl": "/yabanci-dil-egitim-kitabi-x-c104359"
+          },
+          { "title": "E-Kitaplar", "webUrl": "/e-kitap-x-c103673" },
+          { "title": "Din Kitapları", "webUrl": "/din-mitoloji-x-c104375" },
+          {
+            "title": "Çizgi Roman ve Manga",
+            "webUrl": "/cizgi-roman-mizah-x-c104393"
+          },
+          {
+            "title": "Yabancı Dil Çocuk Kitapları",
+            "webUrl": "/yabanci-dil-cocuk-kitabi-x-c104321"
+          }
+        ]
+      },
+      {
+        "title": "Kırtasiye",
+        "webUrl": "/kirtasiye-ofis-malzemeleri-x-c104125",
+        "children": [
+          { "title": "Defter", "webUrl": "/defter-x-c1233" },
+          { "title": "Ajanda", "webUrl": "/ajanda-x-c109121" },
+          {
+            "title": "Fotokopi Kağıdı",
+            "webUrl": "/fotokopi-kagidi-x-c106552"
+          },
+          { "title": "Kalem", "webUrl": "/kalem-x-c1080" },
+          { "title": "Boya Seti", "webUrl": "/boya-seti-x-c106339" },
+          {
+            "title": "Dosyalama Arşivleme",
+            "webUrl": "/dosyalama-arsivleme-x-c104463"
+          },
+          {
+            "title": "Masaüstü Gereçleri",
+            "webUrl": "/masaustu-gerecleri-x-c106133"
+          },
+          {
+            "title": "Ofis Teknolojisi",
+            "webUrl": "/ofis-teknolojisi-x-c104424"
+          }
+        ]
+      },
+      {
+        "title": "Otomobil & Motosiklet",
+        "webUrl": "/otomobil-ve-motosiklet-x-c105777",
+        "children": [
+          {
+            "title": "Oto Aksesuar",
+            "webUrl": "/oto-aksesuarlari-x-c103483"
+          },
+          { "title": "Oto Paspası", "webUrl": "/oto-paspas-x-c104103" },
+          { "title": "Oto Lastik", "webUrl": "/lastik-x-c103902" },
+          { "title": "Kask", "webUrl": "/motosiklet-kasklari-x-c103849" },
+          {
+            "title": "Kol Dayama & Kolçak",
+            "webUrl": "/kolcaklar-x-c103868"
+          },
+          {
+            "title": "Güneşlik & Perde",
+            "webUrl": "/araba-perdesi-y-s3469"
+          },
+          { "title": "Araç Kokusu", "webUrl": "/araba-kokusu-x-c103873" },
+          {
+            "title": "Motosiklet Eldiveni",
+            "webUrl": "/motosiklet-eldivenleri-x-c103847"
+          },
+          {
+            "title": "Motosiklet Montu",
+            "webUrl": "/motosiklet-montu-x-c104090"
+          },
+          {
+            "title": "Motosiklet Botu",
+            "webUrl": "/motosiklet-ayakkabi-bot-x-c103844"
+          },
+          {
+            "title": "Motosiklet Sepeti",
+            "webUrl": "/motosiklet-cantalari-x-c103833"
+          }
+        ]
+      },
+      {
+        "title": "Yapı Market",
+        "webUrl": "/yapi-market-x-c103720",
+        "children": [
+          {
+            "title": "Banyo Yapı Malzemeleri",
+            "webUrl": "/banyo-yapi-malzemeleri-x-c105718"
+          },
+          {
+            "title": "Elektrikli El Aleti",
+            "webUrl": "/elektrikli-el-aletleri-x-c103723"
+          },
+          {
+            "title": "Hırdavat Ürünleri",
+            "webUrl": "/hirdavat-urunleri-x-c103725"
+          },
+          { "title": "Boya", "webUrl": "/boya-x-c103721" },
+          { "title": "Matkap", "webUrl": "/matkap-x-c105661" },
+          { "title": "Ampul", "webUrl": "/ampul-x-c103675" },
+          { "title": "Vidalama", "webUrl": "/akulu-vidalama-x-c105660" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Süpermarket",
+    "webUrl": "/butik/liste/16/supermarket",
+    "image": "/mobile/web-navigation/V2/Supermarket.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Ev & Temizlik",
+        "slug": "/ev-ve-temizlik",
+        "options": {
+          "category": [
+            1397, 1399, 2438, 1396, 1401, 1389, 1562, 1395, 3220, 3221
+          ],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Çamaşır Yıkama",
+            "slug": "/camasir-yikama",
+            "options": {
+              "category": [1396, 2215, 2354, 1567, 1564, 2435, 2355],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bulaşık Yıkama",
+            "slug": "/bulasik-yikama",
+            "options": {
+              "category": [1395, 1550, 1553, 2413],
+              "gender": false
+            }
+          },
+          {
+            "title": "Paspas & Mop",
+            "slug": "/paspas-ve-mop",
+            "options": {
+              "category": [2463],
+              "gender": false
+            }
+          },
+          {
+            "title": "Çamaşır Deterjanı",
+            "slug": "/camasir-derejani",
+            "options": {
+              "category": [2215],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bulaşık Deterjanı",
+            "slug": "/bulasik-deterjani",
+            "options": {
+              "category": [1553, 1550],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oda Kokusu",
+            "slug": "/oda-kokusu",
+            "options": {
+              "category": [5253],
+              "gender": false
+            }
+          },
+          {
+            "title": "Banyo Temizleyiciler",
+            "slug": "/banyo-temizleyiciler",
+            "options": {
+              "category": [5005, 2440],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yumuşatıcı",
+            "slug": "/yumusatici",
+            "options": {
+              "category": [2354],
+              "gender": false
+            }
+          },
+          {
+            "title": "Islak Mendil",
+            "slug": "/islak-mendil",
+            "options": {
+              "category": [1423],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tuvalet Kağıdı",
+            "slug": "/tuvalet-kagidi",
+            "options": {
+              "category": [1427],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kağıt Havlu",
+            "slug": "/kagit-havlu",
+            "options": {
+              "category": [1424],
+              "gender": false
+            }
+          },
+          {
+            "title": "Temizlik Bezi",
+            "slug": "/temizlik-bezi",
+            "options": {
+              "category": [2464],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Kişisel Bakım",
+        "slug": "/kisisel-bakim",
+        "options": {
+          "category": [2901, 1203, 641, 2425, 1201, 1209, 2430, 1204],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Saç Bakım",
+            "slug": "/sac-bakim",
+            "options": {
+              "category": [
+                1209, 667, 2162, 3629, 2163, 1210, 4835, 4836, 1017, 744, 665,
+                3959, 2957, 4834, 2948
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ağda & Epilasyon",
+            "slug": "/agda-ve-epilasyon",
+            "options": {
+              "category": [2430, 1542, 3628, 2240, 1211],
+              "gender": false
+            }
+          },
+          {
+            "title": "Banyo & Duş",
+            "slug": "/banyo-ve-dus",
+            "options": {
+              "category": [2954, 5284, 628, 5285, 629, 4815, 4805, 4806, 4807],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ağız Bakım",
+            "slug": "/agiz-bakim",
+            "options": {
+              "category": [1201, 1526, 2406, 5085, 4769, 1527, 625, 2408, 2407],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cilt Bakım",
+            "slug": "/cilt-bakim",
+            "options": {
+              "category": [1203, 4821, 4770, 740, 4965, 628, 670, 612, 4808],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Bakım",
+            "slug": "/vucut-bakim",
+            "options": {
+              "category": [670, 671, 4820, 746, 4819, 2889],
+              "gender": false
+            }
+          },
+          {
+            "title": "Deodorant ve Roll on",
+            "slug": "/deodorant-ve-roll-on",
+            "options": {
+              "category": [2426],
+              "gender": false
+            }
+          },
+          {
+            "title": "Şarjlı Diş Fırçaları",
+            "slug": "/sarjli-dis-firçasi",
+            "options": {
+              "category": [3275],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kadın Hijyen",
+            "slug": "/kadin-hijyen",
+            "options": {
+              "category": [1204, 636, 1602, 2434, 4826],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kolonya",
+            "slug": "/kolonya",
+            "options": {
+              "category": [659],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tıraş Ürünleri",
+            "slug": "/tiras-urunleri",
+            "options": {
+              "category": [639, 640, 4837, 1541],
+              "gender": false
+            }
+          },
+          {
+            "title": "Güneş Ürünleri",
+            "slug": "/gunes-urunleri",
+            "options": {
+              "category": [4770, 4774, 620, 4771, 4773, 4772],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Bebek Bakım",
+        "slug": "/bebek-bakim",
+        "options": {
+          "category": [2861, 998, 997, 5030, 4987, 5032, 2339, 5033, 5031, 989],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Süt Arttırıcı İçecekler",
+            "slug": "/sut-arttirici-icecekler",
+            "options": {
+              "category": [995],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Ek Besin",
+            "slug": "/bebek-ek-besin",
+            "options": {
+              "category": [2340, 2346, 2347, 2349, 2348],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Bezi",
+            "slug": "/bebek-bezi",
+            "options": {
+              "category": [1002],
+              "gender": false
+            }
+          },
+          {
+            "title": "Islak Mendil & Havlu",
+            "slug": "/islak-mendil-ve-havlu",
+            "options": {
+              "category": [1001],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Kozmetik",
+            "slug": "/bebek-kozmetik",
+            "options": {
+              "category": [
+                1000, 5086, 1009, 2338, 1007, 2165, 2987, 1004, 2890, 2334,
+                2336, 2337, 5085
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Burun Aspiratörü",
+            "slug": "/bebek-burun-aspiratörü",
+            "options": {
+              "category": [5030, 1005, 1009, 453, 5086],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Diş Fırçası",
+            "slug": "/bebek-dis-fircasi",
+            "options": {
+              "category": [2336],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Mamaları",
+            "slug": "/bebek-mamalari",
+            "options": {
+              "category": [2341, 2345, 3551, 2344, 2342, 2343],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Diş Macunu",
+            "slug": "/bebek-dis-macunu",
+            "options": {
+              "category": [5085],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Temizleme Pamuğu",
+            "slug": "/bebek-temizleme-pamuğu",
+            "options": {
+              "category": [5033],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Güneş Kremi",
+            "slug": "/bebek-gunes-kremi",
+            "options": {
+              "category": [2165],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Pudrası",
+            "slug": "/bebek-pudrasi",
+            "options": {
+              "category": [2334],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Tırnak Makası",
+            "slug": "/bebek-tirnak-makasi",
+            "options": {
+              "category": [4813],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Pişik Kremi",
+            "slug": "/bebek-pisik-kremi",
+            "options": {
+              "category": [2334, 1000],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Yağı",
+            "slug": "/bebek-yagi",
+            "options": {
+              "category": [1000],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Bakım Seti",
+            "slug": "/bebek-bakim-seti",
+            "options": {
+              "category": [2987],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Şampuanı",
+            "slug": "/bebek-sampuani",
+            "options": {
+              "category": [2338],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Kolonyası",
+            "slug": "/bebek-kolonyasi",
+            "options": {
+              "category": [2334],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Bakım Örtüsü",
+            "slug": "/bebek-bakim-ortusu",
+            "options": {
+              "category": [1004],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bebek Ateş Ölçer",
+            "slug": "/bebek-ates-olcer",
+            "options": {
+              "category": [5031],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Gıda ve İçecek",
+        "slug": "/gida-ve-icecek",
+        "options": {
+          "category": [1385],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Çay",
+            "slug": "/cay",
+            "options": {
+              "category": [1414, 2895, 5057, 2897, 2896],
+              "gender": false
+            }
+          },
+          {
+            "title": "Özel Gıda",
+            "slug": "/ozel-gida",
+            "options": {
+              "category": [2443, 1386, 1406, 5199, 2445, 5081, 2446, 2444],
+              "gender": false
+            }
+          },
+          {
+            "title": "Atıştırmalık",
+            "slug": "/atistirmalik",
+            "options": {
+              "category": [
+                1459, 2330, 1465, 5038, 1458, 1463, 1461, 1457, 5036, 5197,
+                3596, 1464, 1467, 5046, 1468
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kahvaltılık",
+            "slug": "/kahvaltilik",
+            "options": {
+              "category": [
+                5071, 1453, 1452, 5073, 3627, 5075, 1454, 1449, 1450, 1451,
+                5072, 5078, 1422, 1455, 5077, 5076, 1448, 1456, 4090, 1411
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kuru Gıda",
+            "slug": "/kuru-gida",
+            "options": {
+              "category": [
+                2447, 1435, 1428, 1434, 1446, 5079, 1443, 4666, 5080, 1447,
+                3955, 1429, 1430, 3626, 1466
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kahve",
+            "slug": "/kahve",
+            "options": {
+              "category": [
+                1418, 2400, 2398, 2399, 2402, 4628, 3613, 2403, 2898, 3614
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makarna",
+            "slug": "/makarna",
+            "options": {
+              "category": [1435],
+              "gender": false
+            }
+          },
+          {
+            "title": "Salça",
+            "slug": "/salca",
+            "options": {
+              "category": [1438],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sıvı Yağ",
+            "slug": "/sivi-yag",
+            "options": {
+              "category": [1439],
+              "gender": false
+            }
+          },
+          {
+            "title": "Un",
+            "slug": "/un",
+            "options": {
+              "category": [
+                1447, 5164, 5179, 5168, 5163, 5169, 5167, 5166, 5165
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tuz & Baharat",
+            "slug": "/tuz-ve-baharat",
+            "options": {
+              "category": [
+                1428, 5174, 5122, 5131, 5125, 5128, 5126, 5127, 5132, 5135,
+                5134, 5130, 5137, 5136, 5123, 5133, 5129, 5124, 5175
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Çorba",
+            "slug": "/corba",
+            "options": {
+              "category": [1431],
+              "gender": false
+            }
+          },
+          {
+            "title": "Gevrek",
+            "slug": "/gevrek",
+            "options": {
+              "category": [1451],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yulaf",
+            "slug": "/yulaf",
+            "options": {
+              "category": [5078],
+              "gender": false
+            }
+          },
+          {
+            "title": "Konserve",
+            "slug": "/konserve",
+            "options": {
+              "category": [1433, 5170, 5106, 5107, 5105, 5108, 5102],
+              "gender": false
+            }
+          },
+          {
+            "title": "Şeker",
+            "slug": "/seker",
+            "options": {
+              "category": [5150],
+              "gender": false
+            }
+          },
+          {
+            "title": "Süt",
+            "slug": "/sut",
+            "options": {
+              "category": [1422],
+              "gender": false
+            }
+          },
+          {
+            "title": "Pasta Süslemeleri",
+            "slug": "/pasta-suslemeleri",
+            "options": {
+              "category": [5157],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bitki Çayları",
+            "slug": "/bitki-caylari",
+            "options": {
+              "category": [
+                4627, 5083, 5066, 5064, 5065, 5059, 5063, 5058, 5060, 5061, 5062
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Gazsız İçecekler",
+            "slug": "/gazsiz-icecekler",
+            "options": {
+              "category": [
+                2899, 1419, 2728, 1417, 5068, 2401, 1421, 2404, 2900, 4089,
+                5069, 2405, 5067, 4091
+              ],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Atıştırmalık",
+        "slug": "/atistirmalik",
+        "options": {
+          "category": [
+            1405, 1459, 2330, 1465, 5038, 1458, 1463, 1461, 1457, 5036, 5197,
+            3596, 1464, 1467, 5046, 1468
+          ],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Kuru Meyve",
+            "slug": "/kuru-meyve",
+            "options": {
+              "category": [5039],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kuruyemiş",
+            "slug": "/kuruyemis",
+            "options": {
+              "category": [
+                5046, 5054, 5047, 5053, 5051, 5049, 5050, 5082, 5052, 5056,
+                5055, 5048
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cips",
+            "slug": "/cips",
+            "options": {
+              "category": [1458],
+              "gender": false
+            }
+          },
+          {
+            "title": "Çikolata",
+            "slug": "/cikolata",
+            "options": {
+              "category": [1459],
+              "gender": false
+            }
+          },
+          {
+            "title": "Gofret",
+            "slug": "/gofret",
+            "options": {
+              "category": [5036],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bisküvi",
+            "slug": "/bisküvi",
+            "options": {
+              "category": [1457],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kraker",
+            "slug": "/kraker",
+            "options": {
+              "category": [3892],
+              "gender": false
+            }
+          },
+          {
+            "title": "Şekerleme",
+            "slug": "/sekerleme",
+            "options": {
+              "category": [1465],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sakız",
+            "slug": "/sakiz",
+            "options": {
+              "category": [1464],
+              "gender": false
+            }
+          },
+          {
+            "title": "Protein Bar",
+            "slug": "/protein-bar",
+            "options": {
+              "category": [1818],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sağlıklı Atıştırmalıklar",
+            "slug": "/saglikli-atıistirmaliklar",
+            "options": {
+              "category": [2330],
+              "gender": false
+            }
+          },
+          {
+            "title": "Unlu Mamüller",
+            "slug": "/unlu-mamuller",
+            "options": {
+              "category": [
+                1468, 3882, 3633, 3632, 3634, 3891, 3892, 3889, 3890
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kek",
+            "slug": "/kek",
+            "options": {
+              "category": [1461],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Petshop",
+        "slug": "/petshop",
+        "options": {
+          "category": [1028, 1279, 1280, 5013, 1282, 1281, 1283, 1284, 5469],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Kedi Maması",
+            "slug": "/kedi-mamasi",
+            "options": {
+              "category": [1030, 1291],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Kumu",
+            "slug": "/kedi-kumu",
+            "options": {
+              "category": [1032],
+              "gender": false
+            }
+          },
+          {
+            "title": "Köpek Maması",
+            "slug": "/kopek-mamasi",
+            "options": {
+              "category": [1031, 1280],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Vitamini",
+            "slug": "/kedi-vitamini",
+            "options": {
+              "category": [1298],
+              "gender": false
+            }
+          },
+          {
+            "title": "Köpek Tasması",
+            "slug": "/kopek-tasmasi",
+            "options": {
+              "category": [1352],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kuş Ürünleri",
+            "slug": "/kus-urunleri",
+            "options": {
+              "category": [
+                1282, 1341, 1334, 1333, 1338, 1344, 1342, 1336, 1340, 1337,
+                1343, 1335, 1339, 5572
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Akvaryum Ürünleri",
+            "slug": "/akvaryum-urunleri",
+            "options": {
+              "category": [
+                1281, 1332, 1319, 1328, 1320, 1321, 1329, 1331, 1323, 1330,
+                1322, 1770
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Box & Taşıma Çantaları",
+            "slug": "/kedi-box-ve-tasima-cantalari",
+            "options": {
+              "category": [1294],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi ve Köpek Oyuncakları",
+            "slug": "/kedi-ve-kopek-oyuncaklari",
+            "options": {
+              "category": [1288, 1357],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Yaş Mamaları",
+            "slug": "/kedi-yas-mamalari",
+            "options": {
+              "category": [1291],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Ödül Mamaları",
+            "slug": "/kedi-odul-mamalari",
+            "options": {
+              "category": [1285],
+              "gender": false
+            }
+          },
+          {
+            "title": "Köpek Ödül Mamaları",
+            "slug": "/kopek-odul-mamalari",
+            "options": {
+              "category": [1350],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kısır Kedi Mamaları",
+            "slug": "/kisir-kedi-mamalari",
+            "options": {
+              "category": [1030, 1291],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Şampuanı",
+            "slug": "/kedi-sampuani",
+            "options": {
+              "category": [2149],
+              "gender": false
+            }
+          },
+          {
+            "title": "Su ve Mama Kapları",
+            "slug": "/su-ve-mama-kaplari",
+            "options": {
+              "category": [1295],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kuş Yemleri",
+            "slug": "/kus-yemleri",
+            "options": {
+              "category": [1334],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi ve Köpek Yatakları",
+            "slug": "/kedi-ve-kopek-yataklari",
+            "options": {
+              "category": [1292],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yavru Kedi Mamaları",
+            "slug": "/yavru-kedi-mamalari",
+            "options": {
+              "category": [1030],
+              "gender": false
+            }
+          },
+          {
+            "title": "Akvaryum Balık Yemi",
+            "slug": "/akvaryum-balik-yemi",
+            "options": {
+              "category": [1323],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Tuvaleti",
+            "slug": "/kedi-tuvaleti",
+            "options": {
+              "category": [1286],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Fırça ve Tarağı",
+            "slug": "/kedi-firca-ve-taragi",
+            "options": {
+              "category": [1300],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kedi Tırmalaması",
+            "slug": "/kedi-tirmalamasi",
+            "options": {
+              "category": [1289],
+              "gender": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Kozmetik",
+    "webUrl": "/butik/liste/11/kozmetik",
+    "image": "/mobile/web-navigation/V2/Kozmetik.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Makyaj",
+        "webUrl": "/makyaj-x-c100",
+        "children": [
+          {
+            "title": "Göz Makyajı",
+            "slug": "/goz-makyaji",
+            "options": {
+              "category": [
+                645, 647, 650, 646, 648, 4828, 649, 1536, 4827, 4829, 2880
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ten Makyajı",
+            "slug": "/ten-makyaji",
+            "options": {
+              "category": [
+                652, 654, 2148, 610, 653, 656, 2147, 1534, 943, 2992
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Dudak Makyajı",
+            "slug": "/dudak-makyaji",
+            "options": {
+              "category": [642, 644, 2881, 643],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makyaj Seti",
+            "slug": "/makyaj-seti",
+            "options": {
+              "category": [651],
+              "gender": false
+            }
+          },
+          {
+            "title": "Oje & Aseton",
+            "slug": "/oje-ve-aseton",
+            "options": {
+              "category": [619],
+              "gender": false
+            }
+          },
+          {
+            "title": "Fondöten",
+            "slug": "/fondoten",
+            "options": {
+              "category": [654],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ruj",
+            "slug": "/ruj",
+            "options": {
+              "category": [644],
+              "gender": false
+            }
+          },
+          {
+            "title": "Dudak Kalemi",
+            "slug": "/dudak-kalemi",
+            "options": {
+              "category": [643],
+              "gender": false
+            }
+          },
+          {
+            "title": "Maskara",
+            "slug": "/maskara",
+            "options": {
+              "category": [650],
+              "gender": false
+            }
+          },
+          {
+            "title": "Eyeliner",
+            "slug": "/eyeliner",
+            "options": {
+              "category": [646],
+              "gender": false
+            }
+          },
+          {
+            "title": "Göz Kalemi",
+            "slug": "/goz-kalemi",
+            "options": {
+              "category": [648],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kapatıcılar",
+            "slug": "/kapaticiler",
+            "options": {
+              "category": [2148],
+              "gender": false
+            }
+          },
+          {
+            "title": "Allık",
+            "slug": "/allik",
+            "options": {
+              "category": [653],
+              "gender": false
+            }
+          },
+          {
+            "title": "Highlighter",
+            "slug": "/highlighter",
+            "options": {
+              "category": [2147],
+              "gender": false
+            }
+          },
+          {
+            "title": "BB & CC Krem",
+            "slug": "/bb-ve-cc-krem",
+            "options": {
+              "category": [610],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kontür ve Paletler",
+            "slug": "/kontur-ve-paletler",
+            "options": {
+              "category": [1534],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bronzer",
+            "slug": "/bronzer",
+            "options": {
+              "category": [
+                653, 1534, 656, 2952, 2147, 4771, 654, 620, 4830, 2426, 651,
+                647, 2148, 2881, 3294, 4825, 740, 2163, 671, 943, 2165, 747,
+                633, 643, 460, 610, 649, 644, 614, 4772
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Pudra",
+            "slug": "/pudra",
+            "options": {
+              "category": [656],
+              "gender": false
+            }
+          },
+          {
+            "title": "Takma Tırnak",
+            "slug": "/tama-tirnak",
+            "options": {
+              "category": [633],
+              "gender": false
+            }
+          },
+          {
+            "title": "Far Paleti",
+            "slug": "/far-paleti",
+            "options": {
+              "category": [647],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Cilt Bakımı",
+        "slug": "/cilt-bakimi",
+        "options": {
+          "category": [1203, 4821, 4770, 740, 4965, 628, 670, 612, 4808],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Yüz Kremi",
+            "slug": "/yuz-kremi",
+            "options": {
+              "category": [615],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yüz Temizleme",
+            "slug": "/yuz-temizleme",
+            "options": {
+              "category": [1821],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yüz Maskesi",
+            "slug": "/yuz-maskesi",
+            "options": {
+              "category": [614],
+              "gender": false
+            }
+          },
+          {
+            "title": "Göz Bakımı",
+            "slug": "/goz-bakimi",
+            "options": {
+              "category": [612, 2161, 4818, 4977, 2953, 1535],
+              "gender": false
+            }
+          },
+          {
+            "title": "Güneş Koruyucu",
+            "slug": "/gunes-koruyucu",
+            "options": {
+              "category": [4770, 620, 4774, 4772, 2165, 4771, 4773],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cilt Serumu",
+            "slug": "/cilt-serumu",
+            "options": {
+              "category": [739],
+              "gender": false
+            }
+          },
+          {
+            "title": "El & Ayak Bakımı",
+            "slug": "/el-ve-ayak-bakimi",
+            "options": {
+              "category": [
+                4808, 4812, 2360, 4976, 4811, 4810, 2362, 4817, 4809, 4813, 2363
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tonikler",
+            "slug": "/tonikler",
+            "options": {
+              "category": [1822],
+              "gender": false
+            }
+          },
+          {
+            "title": "Nemlendiriciler",
+            "slug": "/nemlendiriciler",
+            "options": {
+              "category": [615],
+              "gender": false
+            }
+          },
+          {
+            "title": "Yüz Maskeleri",
+            "slug": "/yuz-maskeleri",
+            "options": {
+              "category": [614],
+              "gender": false
+            }
+          },
+          {
+            "title": "Peeling",
+            "slug": "/peeling",
+            "options": {
+              "category": [4825],
+              "gender": false
+            }
+          },
+          {
+            "title": "El Kremleri",
+            "slug": "/el-kremleri",
+            "options": {
+              "category": [4810],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Losyonları",
+            "slug": "/vucut-losyonlari",
+            "options": {
+              "category": [671, 740],
+              "gender": false
+            }
+          },
+          {
+            "title": "Selülit Kremleri",
+            "slug": "/selulit-kremleri",
+            "options": {
+              "category": [746],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makyaj Temizleyici",
+            "slug": "/makyaj-temizleyici",
+            "options": {
+              "category": [3518],
+              "gender": false
+            }
+          },
+          {
+            "title": "Güneş Kremleri",
+            "slug": "/gunes-kremleri",
+            "options": {
+              "category": [620],
+              "gender": false
+            }
+          },
+          {
+            "title": "At Kılı Fırçaları",
+            "slug": "/at-kili-fircalari",
+            "options": {
+              "category": [4819, 2954, 4824],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bronzlaştırıcılar",
+            "slug": "/bronzlastiricilar",
+            "options": {
+              "category": [
+                4771, 653, 1534, 656, 2952, 2147, 654, 620, 635, 4830, 2426,
+                651, 647, 2148, 2881, 3294, 4825, 740, 2163, 671, 943, 2165,
+                4965, 633, 643, 460, 610, 649, 644, 614, 4772
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cilt Sıkılaştırıcılar",
+            "slug": "/cilt-sikilasticilar",
+            "options": {
+              "category": [671],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Spreyleri",
+            "slug": "/vucut-spreyleri",
+            "options": {
+              "category": [672],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Saç Bakımı",
+        "slug": "/sac-bakim",
+        "options": {
+          "category": [
+            1209, 667, 2162, 3629, 2163, 1210, 4835, 4836, 1017, 744, 665, 3959,
+            2957, 4834, 2948
+          ],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Şampuan",
+            "slug": "/sampuan",
+            "options": {
+              "category": [2162],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Şekillendirici",
+            "slug": "/sac-sekillendirici",
+            "options": {
+              "category": [1210, 2229, 1540, 1538, 1537],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Serumu & Maskesi",
+            "slug": "/sac-serumu-ve-maskesi",
+            "options": {
+              "category": [3629],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Boyası",
+            "slug": "/sac-boyasi",
+            "options": {
+              "category": [665],
+              "gender": false
+            }
+          },
+          {
+            "title": "Mor Şampuan",
+            "slug": "/mor-sampuan",
+            "options": {
+              "category": [2162],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kuru Şampuan",
+            "slug": "/kuru-sampuan",
+            "options": {
+              "category": [2957],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Köpüğü",
+            "slug": "/sac-kopugu",
+            "options": {
+              "category": [1538],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Kremi",
+            "slug": "/sac-kremi",
+            "options": {
+              "category": [2163],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Bakım Yağı",
+            "slug": "/sac-bakim-yagi",
+            "options": {
+              "category": [667, 4965],
+              "gender": false
+            }
+          },
+          {
+            "title": "Fön Suyu",
+            "slug": "/fon-suyu",
+            "options": {
+              "category": [1540, 744],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Bakım Spreyi",
+            "slug": "/sac-bakim-spreyi",
+            "options": {
+              "category": [1540],
+              "gender": false
+            }
+          },
+          {
+            "title": "Renk Açıcı",
+            "slug": "/renk-acıcı",
+            "options": {
+              "category": [3959],
+              "gender": false
+            }
+          },
+          {
+            "title": "Geçici Saç Boyaları",
+            "slug": "/gecici-sac-boyalari",
+            "options": {
+              "category": [665],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Makası",
+            "slug": "/sac-makasi",
+            "options": {
+              "category": [4834],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tarak",
+            "slug": "/tarak",
+            "options": {
+              "category": [1017],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Bantları",
+            "slug": "/sac-bantlari",
+            "options": {
+              "category": [3216],
+              "gender": false
+            }
+          },
+          {
+            "title": "Toka",
+            "slug": "/toka",
+            "options": {
+              "category": [1795],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Vitamini",
+            "slug": "/sac-vitamini",
+            "options": {
+              "category": [4836],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Toniği",
+            "slug": "/sac-tonigi",
+            "options": {
+              "category": [4835],
+              "gender": false
+            }
+          },
+          {
+            "title": "Wax",
+            "slug": "/wax",
+            "options": {
+              "category": [2229, 4828, 1537],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Kişisel Bakım",
+        "slug": "/kisisel-bakim",
+        "options": {
+          "category": [2428, 2141, 2140],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Duş Jelleri",
+            "slug": "/dus-jelleri",
+            "options": {
+              "category": [629],
+              "gender": false
+            }
+          },
+          {
+            "title": "Banyo Sabunları",
+            "slug": "/banyo-sabunlari",
+            "options": {
+              "category": [
+                5284, 2954, 5285, 2884, 2884, 629, 2337, 2162, 4805, 4815
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Şampuan",
+            "slug": "/sampuan",
+            "options": {
+              "category": [2162],
+              "gender": false
+            }
+          },
+          {
+            "title": "Pamuk",
+            "slug": "/pamuk",
+            "options": {
+              "category": [4807],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Spreyleri",
+            "slug": "/vucut-spreyleri",
+            "options": {
+              "category": [672],
+              "gender": false
+            }
+          },
+          {
+            "title": "Parfüm",
+            "slug": "/parfum",
+            "options": {
+              "category": [661],
+              "gender": false
+            }
+          },
+          {
+            "title": "Deodorant",
+            "slug": "/deodorant",
+            "options": {
+              "category": [2426],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ağız Bakım Suyu",
+            "slug": "/agiz-bakim-suyu",
+            "options": {
+              "category": [2406],
+              "gender": false
+            }
+          },
+          {
+            "title": "Diş Fırçası",
+            "slug": "/dis-fircasi",
+            "options": {
+              "category": [625, 3276, 3275, 3277],
+              "gender": false
+            }
+          },
+          {
+            "title": "Diş Macunu",
+            "slug": "/dis-macunu",
+            "options": {
+              "category": [626],
+              "gender": false
+            }
+          },
+          {
+            "title": "Diş İpi",
+            "slug": "/dis-ipi",
+            "options": {
+              "category": [1527],
+              "gender": false
+            }
+          },
+          {
+            "title": "Şarjlı Diş Fırçaları",
+            "slug": "/sarjli-dis-fircasi",
+            "options": {
+              "category": [3275],
+              "gender": false
+            }
+          },
+          {
+            "title": "Törpüler",
+            "slug": "/torpuler",
+            "options": {
+              "category": [4811, 4812, 4809, 726],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kaş Makası",
+            "slug": "/kas-makasi",
+            "options": {
+              "category": [3628],
+              "gender": false
+            }
+          },
+          {
+            "title": "Günlük Ped",
+            "slug": "/gunluk-ped",
+            "options": {
+              "category": [4826, 636],
+              "gender": false
+            }
+          },
+          {
+            "title": "Mesane Pedi",
+            "slug": "/mesane-pedi",
+            "options": {
+              "category": [2391],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kese",
+            "slug": "/kese",
+            "options": {
+              "category": [2954, 1830],
+              "gender": false
+            }
+          },
+          {
+            "title": "Banyo Lifi",
+            "slug": "/banyo-lifi",
+            "options": {
+              "category": [2954],
+              "gender": false
+            }
+          },
+          {
+            "title": "Diş Beyazlatıcı",
+            "slug": "/dis-beyazlatici",
+            "options": {
+              "category": [1526],
+              "gender": false
+            }
+          },
+          {
+            "title": "Gıda Takviyeleri",
+            "slug": "/gida-takviyeleri",
+            "options": {
+              "category": [
+                2320, 2322, 2325, 3958, 2323, 2331, 2326, 5455, 2324, 2327
+              ],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Parfüm & Deodorant",
+        "slug": "/parfum-ve-deodorant",
+        "options": {
+          "category": [2425, 661, 672, 662, 2426, 659, 4838],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Parfüm",
+            "slug": "/parfum",
+            "options": {
+              "category": [661],
+              "gender": false
+            }
+          },
+          {
+            "title": "Parfüm Setleri",
+            "slug": "/parfum-setleri",
+            "options": {
+              "category": [662],
+              "gender": false
+            }
+          },
+          {
+            "title": "Deodorant",
+            "slug": "/deodorant",
+            "options": {
+              "category": [2426],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Spreyi",
+            "slug": "/vucut-spreyi",
+            "options": {
+              "category": [672],
+              "gender": false
+            }
+          },
+          {
+            "title": "Roll-On",
+            "slug": "/roll-on",
+            "options": {
+              "category": [2426],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Saç Şekillendirici",
+        "slug": "/sac-sekillendirici",
+        "options": {
+          "category": [1210, 2229, 1540, 1538, 1537],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Saç Köpüğü",
+            "slug": "/sac-kopugu",
+            "options": {
+              "category": [1538],
+              "gender": false
+            }
+          },
+          {
+            "title": "Saç Spreyi",
+            "slug": "/sac-spreyi",
+            "options": {
+              "category": [1540],
+              "gender": false
+            }
+          },
+          {
+            "title": "Jöle",
+            "slug": "/jole",
+            "options": {
+              "category": [1537],
+              "gender": false
+            }
+          },
+          {
+            "title": "Wax",
+            "slug": "/wax",
+            "options": {
+              "category": [2229, 4828, 1537],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Makyaj Aksesuarları",
+        "slug": "/makyaj-aksesuarlari",
+        "options": {
+          "category": [4830, 635, 970, 3294, 4973, 3295],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Makyaj Fırçaları",
+            "slug": "/makyaj-fircalari",
+            "options": {
+              "category": [635],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makyaj Süngerleri",
+            "slug": "/makyaj-süngerleri",
+            "options": {
+              "category": [3294],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makyaj Çantaları",
+            "slug": "/makyaj-cantalari",
+            "options": {
+              "category": [970],
+              "gender": false
+            }
+          },
+          {
+            "title": "Makyaj Aynaları",
+            "slug": "/makyaj-aynalari",
+            "options": {
+              "category": [460],
+              "gender": false
+            }
+          },
+          {
+            "title": "Cımbız",
+            "slug": "/cimbiz",
+            "options": {
+              "category": [2240],
+              "gender": false
+            }
+          },
+          {
+            "title": "Kirpik Kıvırıcı",
+            "slug": "/kirpik-kivirici",
+            "options": {
+              "category": [3295],
+              "gender": false
+            }
+          },
+          {
+            "title": "Manikür & Pedikür Setleri",
+            "slug": "/manikur-pedikur-setleri",
+            "options": {
+              "category": [4811],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Epilasyon & Tıraş",
+        "slug": "/epilasyon-ve-tiras",
+        "options": {
+          "category": [2430, 1542, 2431, 3628, 2240, 1211],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Tüy Dökücü",
+            "slug": "/tuy-dokucu",
+            "options": {
+              "category": [3090, 2433, 2431, 1541, 639, 3628, 2240, 4363, 640],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ağda",
+            "slug": "/agda",
+            "options": {
+              "category": [2431],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tıraş Bıçağı",
+            "slug": "/tiras-bicagi",
+            "options": {
+              "category": [639],
+              "gender": false
+            }
+          },
+          {
+            "title": "Epilatör",
+            "slug": "/epilatör",
+            "options": {
+              "category": [867],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tıraş Köpüğü",
+            "slug": "/tiras-kopugu",
+            "options": {
+              "category": [640],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ağda Bantları",
+            "slug": "/agda-bantlari",
+            "options": {
+              "category": [4604],
+              "gender": false
+            }
+          },
+          {
+            "title": "Tüy Dökücü Krem",
+            "slug": "/tuy-dokucu-krem",
+            "options": {
+              "category": [2433],
+              "gender": false
+            }
+          }
+        ]
+      },
+      {
+        "title": "Genel Bakım",
+        "slug": "/genel-bakim",
+        "options": {
+          "category": [1070, 1203, 641, 2425, 1201, 1209, 2430, 1204],
+          "gender": false
+        },
+        "children": [
+          {
+            "title": "Cinsel Sağlık",
+            "slug": "/cinsel-saglik",
+            "options": {
+              "category": [
+                741, 5267, 5239, 5240, 5238, 4888, 3098, 1769, 2376, 5099
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Hijyenik Ped",
+            "slug": "/hijyenik-ped",
+            "options": {
+              "category": [636],
+              "gender": false
+            }
+          },
+          {
+            "title": "Vücut Bakımı",
+            "slug": "/vucut-bakimi",
+            "options": {
+              "category": [670, 671, 4820, 746, 4819, 2889],
+              "gender": false
+            }
+          },
+          {
+            "title": "El ve Ayak Bakımı",
+            "slug": "/el-ve-ayak-bakimi",
+            "options": {
+              "category": [
+                4808, 4812, 2360, 4976, 4811, 4810, 4817, 4809, 4813, 2363
+              ],
+              "gender": false
+            }
+          },
+          {
+            "title": "Duş Jeli ve Kremi",
+            "slug": "/dus-jeli-ve-kremi",
+            "options": {
+              "category": [629],
+              "gender": false
+            }
+          },
+          {
+            "title": "Bakım Yağları",
+            "slug": "/bakim-yaglari",
+            "options": {
+              "category": [4965],
+              "gender": false
+            }
+          },
+          {
+            "title": "Ayak Törpüleri",
+            "slug": "/ayak-torpuleri",
+            "options": {
+              "category": [4809],
+              "gender": false
+            }
+          },
+          {
+            "title": "Katı Sabun",
+            "slug": "/kati-sabun",
+            "options": {
+              "category": [5284],
+              "gender": false
+            }
+          },
+          {
+            "title": "Sıvı Sabun",
+            "slug": "/sivi-sabun",
+            "options": {
+              "category": [5285],
+              "gender": false
+            }
+          },
+          {
+            "title": "Pamuk",
+            "slug": "/pamuk",
+            "options": {
+              "category": [4807],
+              "gender": false
+            }
+          },
+          {
+            "title": "El Dezenfektanı",
+            "slug": "/el-dezenfektani",
+            "options": {
+              "category": [3286],
+              "gender": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Ayakkabı & Çanta",
+    "webUrl": "/butik/liste/9/ayakkabi--canta",
+    "image": "/mobile/web-navigation/V2/Ayakkabi_Canta.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Kadın Ayakkabı",
+        "slug": "/kadin-ayakkabi",
+        "options": {
+          "category": [403, 1171, 420, 430, 417, 406, 1026, 1170, 3261],
+          "gender": "women"
+        },
+        "children": [
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/spor-ayakkabi",
+            "options": {
+              "category": [
+                420, 975, 429, 425, 427, 426, 3929, 421, 422, 428, 2722
+              ],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Topuklu Ayakkabı",
+            "slug": "/topuklu-ayakkabi",
+            "options": {
+              "category": [430, 434, 431, 432],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/gunluk-ayakkabi",
+            "options": {
+              "category": [1171, 410, 1826, 411, 416, 1825, 412],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Bot & Bootie",
+            "slug": "/bot-ve-bootie",
+            "options": {
+              "category": [407],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sandalet",
+            "slug": "/sandalet",
+            "options": {
+              "category": [418],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Terlik",
+            "slug": "/terlik",
+            "options": {
+              "category": [419],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/sneaker",
+            "options": {
+              "category": [975],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Babet",
+            "slug": "/babet",
+            "options": {
+              "category": [410],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Loafer",
+            "slug": "/loafer",
+            "options": {
+              "category": [1826],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Anne Ayakkabısı",
+            "slug": "/anne-ayakkabisi",
+            "options": {
+              "category": [410, 411, 416, 429, 434, 1826, 975, 412, 432, 1825],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Taşlı Sandalet",
+            "slug": "/tasli-sandalet",
+            "options": {
+              "category": [418, 3183],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Hastane Terlikleri",
+            "slug": "/hastane-terlikleri",
+            "options": {
+              "category": [419, 3184],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Topuklu Terlik",
+            "slug": "/topuklu-terlik",
+            "options": {
+              "category": [419, 958, 3184, 434],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Topuklu Bot",
+            "slug": "/topuklu-bot",
+            "options": {
+              "category": [406],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Çizme",
+            "slug": "/cizme",
+            "options": {
+              "category": [406, 408],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kovboy Çizmesi",
+            "slug": "/kovboy-cizmesi",
+            "options": {
+              "category": [408],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Dolgu Topuk Ayakkabı",
+            "slug": "/dolgu-topuk-ayakkabi",
+            "options": {
+              "category": [432],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Kar Botu",
+            "slug": "/kar-botu",
+            "options": {
+              "category": [3182],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Yağmur Botu",
+            "slug": "/yagmur-botu",
+            "options": {
+              "category": [408, 407, 3182],
+              "gender": "women"
+            }
+          },
+          {
+            "title": "Panduf",
+            "slug": "/panduf",
+            "options": {
+              "category": [957],
+              "gender": "women"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Erkek Ayakkabı",
+        "slug": "/erkek-ayakkabi",
+        "options": {
+          "category": [403, 420, 1171, 417, 406, 1026, 1170, 3261, 3758, 430],
+          "gender": "men"
+        },
+        "children": [
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/spor-ayakkabi",
+            "options": {
+              "category": [
+                420, 975, 425, 429, 427, 421, 422, 426, 428, 3929, 2722
+              ],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/gunluk-ayakkabi",
+            "options": {
+              "category": [1171, 411, 416, 1826, 1825, 412, 410],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Klasik Ayakkabı",
+            "slug": "/klasik-ayakkabi",
+            "options": {
+              "category": [416],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/bot",
+            "options": {
+              "category": [407],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/sneaker",
+            "options": {
+              "category": [975],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Koşu Ayakkabısı",
+            "slug": "/kosu-ayakkabisi",
+            "options": {
+              "category": [425],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Krampon",
+            "slug": "/krampon",
+            "options": {
+              "category": [3929],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Loafer",
+            "slug": "/loafer",
+            "options": {
+              "category": [1826],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Halı Saha Ayakkabısı",
+            "slug": "/hali-saha-ayakkabisi",
+            "options": {
+              "category": [426],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Sandalet",
+            "slug": "/sandalet",
+            "options": {
+              "category": [418],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/bot",
+            "options": {
+              "category": [406, 407],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Çizme",
+            "slug": "/cizme",
+            "options": {
+              "category": [408],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Postal",
+            "slug": "/postal",
+            "options": {
+              "category": [406],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Basketbol Ayakkabısı",
+            "slug": "/basketbol-ayakkabisi",
+            "options": {
+              "category": [421],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Terlik",
+            "slug": "/terlik",
+            "options": {
+              "category": [419],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Ev Terliği",
+            "slug": "/ev-terligi",
+            "options": {
+              "category": [1170, 958],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Panduf",
+            "slug": "/panduf",
+            "options": {
+              "category": [957],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Deniz Ayakkabısı",
+            "slug": "/deniz-ayakkabisi",
+            "options": {
+              "category": [1026],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Süet Ayakkabı",
+            "slug": "/suet-ayakkabi",
+            "options": {
+              "category": [420, 406],
+              "gender": "men"
+            }
+          },
+          {
+            "title": "Yürüyüş Ayakkabısı",
+            "slug": "/yuruyus-ayakkabisi",
+            "options": {
+              "category": [429],
+              "gender": "men"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Çocuk Ayakkabı",
+        "slug": "/cocuk-ayakkabi",
+        "options": {
+          "category": [420, 417, 1171, 1170, 430, 1026, 406, 3261, 3758],
+          "gender": "child"
+        },
+        "children": [
+          {
+            "title": "Spor Ayakkabı",
+            "slug": "/spor-ayakkabi",
+            "options": {
+              "category": [
+                420, 975, 429, 425, 426, 427, 3929, 421, 428, 422, 2722
+              ],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Günlük Ayakkabı",
+            "slug": "/gunluk-ayakkabi",
+            "options": {
+              "category": [1171, 411, 410, 416, 1826, 412, 1825],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Babet",
+            "slug": "/babet",
+            "options": {
+              "category": [410],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Bot",
+            "slug": "/bot",
+            "options": {
+              "category": [407],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Sneaker",
+            "slug": "/sneaker",
+            "options": {
+              "category": [975],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Sandalet",
+            "slug": "/sandalet",
+            "options": {
+              "category": [418],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Terlik",
+            "slug": "/terlik",
+            "options": {
+              "category": [419],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Panduf",
+            "slug": "/panduf",
+            "options": {
+              "category": [957],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Çizme",
+            "slug": "/cizme",
+            "options": {
+              "category": [408],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Basketbol Ayakkabısı",
+            "slug": "/basketbol-ayakkabisi",
+            "options": {
+              "category": [421],
+              "gender": "child"
+            }
+          },
+          {
+            "title": "Krampon",
+            "slug": "/krampon",
+            "options": {
+              "category": [3929],
+              "gender": "child"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Çocuk Çanta",
+        "webUrl": "/cocuk-canta-x-g3-c117",
+        "children": [
+          {
+            "title": "Sırt Çantası",
+            "webUrl": "/cocuk-sirt-cantasi-x-g3-c115"
+          },
+          {
+            "title": "Okul Çantası",
+            "webUrl": "/cocuk-okul-cantasi-x-g3-c104204"
+          },
+          {
+            "title": "Çekçekli Çanta",
+            "webUrl": "/cekcekli-canta-y-s5404"
+          },
+          {
+            "title": "Beslenme Çantası",
+            "webUrl": "/cocuk-beslenme-cantasi-x-g3-c104040"
+          },
+          {
+            "title": "Lisanslı Çantalar",
+            "webUrl": "/lisansli-okul-cantasi-y-s6127"
+          },
+          {
+            "title": "Bel Çantası",
+            "webUrl": "/cocuk-bel-cantasi-x-g3-c104144"
+          },
+          {
+            "title": "Postacı Çanta",
+            "webUrl": "/cocuk-postaci-canta-x-g3-c1152"
+          }
+        ]
+      },
+      {
+        "title": "Erkek Aksesuar",
+        "webUrl": "/erkek-aksesuar-x-g2-c27",
+        "children": [
+          { "title": "Saat", "webUrl": "/erkek-saat-x-g2-c34" },
+          {
+            "title": "Güneş Gözlüğü",
+            "webUrl": "/erkek-gunes-gozlugu-x-g2-c105"
+          },
+          { "title": "Cüzdan", "webUrl": "/erkek-cuzdan-x-g2-c1032" },
+          { "title": "Kemer", "webUrl": "/erkek-kemer-x-g2-c1093" },
+          { "title": "Şapka", "webUrl": "/erkek-sapka-x-g2-c1181" },
+          { "title": "Bileklik", "webUrl": "/erkek-bileklik-x-g2-c101" },
+          { "title": "Kravat", "webUrl": "/kravat-x-c1101" },
+          { "title": "Kolye", "webUrl": "/rozet-y-s6540" },
+          { "title": "Rozet", "webUrl": "/rozet-y-s6540" },
+          { "title": "Papyon", "webUrl": "/papyon-x-c1133" }
+        ]
+      },
+      {
+        "title": "Kadın Aksesuar",
+        "webUrl": "/kadin-aksesuar-x-g1-c27",
+        "children": [
+          { "title": "Saat", "webUrl": "/kadin-saat-x-g1-c34" },
+          { "title": "Takı", "webUrl": "/kadin-taki-mucevher-x-g1-c28" },
+          { "title": "Şapka", "webUrl": "/kadin-sapka-x-g1-c1181" },
+          { "title": "Güneş Gözlüğü", "webUrl": "/gunes-gozlugu-x-c105" },
+          {
+            "title": "Saç Aksesuarları",
+            "webUrl": "/kadin-sac-aksesuarlari-x-g1-c101434"
+          },
+          { "title": "Kemer", "webUrl": "/kadin-kemer-x-g1-c1093" },
+          { "title": "Gümüş Kolye", "webUrl": "/gumus-kolye-x-c103548" },
+          { "title": "Hasır Bilezik", "webUrl": "/hasir-bilezik-y-s4197" }
+        ]
+      },
+      {
+        "title": "Kadın Çanta",
+        "webUrl": "/kadin-canta-x-g1-c117",
+        "children": [
+          {
+            "title": "Omuz Çantası",
+            "webUrl": "/kadin-omuz-cantasi-x-g1-c101465"
+          },
+          {
+            "title": "Sırt Çantası",
+            "webUrl": "/kadin-sirt-cantasi-x-g1-c115"
+          },
+          { "title": "Cüzdan", "webUrl": "/kadin-cuzdan-x-g1-c1032" },
+          {
+            "title": "Spor Çantası",
+            "webUrl": "/kadin-spor-cantasi-x-g1-c1174"
+          },
+          {
+            "title": "Bel Çantası",
+            "webUrl": "/kadin-bel-cantasi-x-g1-c104144"
+          },
+          {
+            "title": "El Çantası",
+            "webUrl": "/kadin-el-cantasi-x-g1-c104145"
+          },
+          { "title": "Portföy", "webUrl": "/kadin-portfoy-x-g1-c1151" },
+          {
+            "title": "Bez Çanta",
+            "slug": "/bez-canta",
+            "options": {
+              "category": [
+                971, 969, 970, 1784, 448, 1856, 447, 974, 449, 5264, 2830, 444,
+                1784, 3702, 973
+              ],
+              "gender": false
+            }
+          },
+          { "title": "Kartlık", "webUrl": "/kadin-kartlik-x-g1-c1087" },
+          {
+            "title": "Abiye Çanta",
+            "webUrl": "/kadin-abiye-canta-x-g1-c103082"
+          },
+          {
+            "title": "Postacı Çantası",
+            "webUrl": "/kadin-postaci-canta-x-g1-c1152"
+          },
+          {
+            "title": "Plaj Çantası",
+            "webUrl": "/kadin-plaj-cantasi-x-g1-c1147"
+          },
+          {
+            "title": "Laptop Çantası",
+            "webUrl": "/kadin-laptop-cantasi-x-g1-c1107"
+          },
+          {
+            "title": "Kapitone Çanta",
+            "webUrl": "/kapitone-canta-y-s20422"
+          },
+          {
+            "title": "Evrak Çantası",
+            "slug": "/dosya-cantasi",
+            "options": {
+              "category": [
+                2849, 444, 974, 2197, 2989, 971, 448, 446, 3450, 447, 2842
+              ],
+              "gender": false
+            }
+          },
+          { "title": "Kutu Çanta", "webUrl": "/kutu-canta-y-s6087" },
+          {
+            "title": "Makyaj Çantası",
+            "webUrl": "/makyaj-cantasi-x-c1110"
+          },
+          { "title": "Peluş Çanta", "webUrl": "/pelus-canta-y-s20549" },
+          { "title": "Hasır Çanta", "webUrl": "/hasir-canta-y-s7920" },
+          { "title": "Valiz & Bavul", "webUrl": "/kadin-valiz-x-g1-c1202" }
+        ]
+      },
+      {
+        "title": "Erkek Çanta",
+        "webUrl": "/erkek-canta-x-g2-c117",
+        "children": [
+          {
+            "title": "Sırt Çantası",
+            "webUrl": "/erkek-sirt-cantasi-x-g2-c115"
+          },
+          {
+            "title": "Postacı Çantası",
+            "webUrl": "/erkek-postaci-canta-x-g2-c1152"
+          },
+          {
+            "title": "Cüzdan & Kartlık",
+            "webUrl": "/erkek-cuzdan-kartlik-x-g2-c1353"
+          },
+          {
+            "title": "Spor Çantası",
+            "webUrl": "/erkek-spor-cantasi-x-g2-c1174"
+          },
+          {
+            "title": "Laptop Çantası",
+            "webUrl": "/erkek-laptop-cantasi-x-g2-c1107"
+          },
+          {
+            "title": "Bel Çantası",
+            "webUrl": "/erkek-bel-cantasi-x-g2-c104144"
+          },
+          {
+            "title": "Omuz Çantası",
+            "webUrl": "/erkek-omuz-cantasi-x-g2-c101465"
+          },
+          {
+            "title": "Portföy Çanta",
+            "webUrl": "/erkek-portfoy-x-g2-c1151"
+          },
+          { "title": "Tıraş Çantası", "webUrl": "/tiras-cantasi-y-s11750" },
+          { "title": "Olta Çantası", "webUrl": "/olta-cantasi-y-s9858" },
+          {
+            "title": "Okul Çantası",
+            "webUrl": "/erkek-okul-cantasi-x-g2-c104204"
+          },
+          { "title": "Valiz", "webUrl": "/erkek-valiz-x-g2-c1202" },
+          {
+            "title": "Outdoor Çanta",
+            "webUrl": "/outdoor-sirt-cantasi-y-s12206"
+          },
+          {
+            "title": "El Çantası",
+            "webUrl": "/erkek-el-cantasi-x-g2-c104145"
+          }
+        ]
+      },
+      {
+        "title": "Lüks & Designer",
+        "webUrl": "/sr?wc=117%2C114&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER",
+        "children": [
+          {
+            "title": "Lüks Çanta",
+            "webUrl": "/sr?wg=2%2C1&wc=117&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER"
+          },
+          {
+            "title": "Lüks Ayakkabı",
+            "webUrl": "/sr?wc=114&wg=1&bu=100161%2C100148&fl=luks-tasarim&sst=BEST_SELLER"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Elektronik",
+    "webUrl": "/butik/liste/5/elektronik",
+    "image": "/mobile/web-navigation/V2/Elektronik.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Küçük Ev Aletleri",
+        "webUrl": "/elektrikli-ev-aletleri-x-c1104",
+        "children": [
+          { "title": "Süpürge", "webUrl": "/supurge-x-c108939" },
+          {
+            "title": "Robot Süpürge",
+            "webUrl": "/robot-supurge-x-c109453"
+          },
+          { "title": "Dikey Süpürge", "webUrl": "/dik-supurge-x-c109454" },
+          { "title": "Ütü", "webUrl": "/utu-x-c1201" },
+          {
+            "title": "Kahve Makinesi",
+            "webUrl": "/kahve-makinesi-x-c1079"
+          },
+          { "title": "Çay Makinesi", "webUrl": "/cay-makinesi-x-c108890" },
+          { "title": "Blender Seti", "webUrl": "/blender-seti-x-c103677" },
+          { "title": "Tost Makinesi", "webUrl": "/tost-makinesi-x-c1197" },
+          {
+            "title": "Doğrayıcı & Rondo",
+            "webUrl": "/sr?wc=101466&os=1&sk=1"
+          },
+          {
+            "title": "Su Isıtıcı & Kettle",
+            "webUrl": "/su-isitici-kettle-x-c101508"
+          },
+          {
+            "title": "Mikser & Mikser Seti",
+            "webUrl": "/sr?wc=101510&os=1&sk=1"
+          },
+          { "title": "Airfryer & Fritöz", "webUrl": "/fritoz-x-c1055" }
+        ]
+      },
+      {
+        "title": "Giyilebilir Teknoloji",
+        "webUrl": "/giyilebilir-teknoloji-x-c144430",
+        "children": [
+          { "title": "Akıllı Saat", "webUrl": "/akilli-saat-x-c1240" },
+          {
+            "title": "Akıllı Bileklik",
+            "webUrl": "/akilli-bileklik-x-c103111"
+          },
+          {
+            "title": "VR Gözlük",
+            "webUrl": "/sanal-gerceklik-gozlukleri-x-c104039"
+          }
+        ]
+      },
+      {
+        "title": "Telefon",
+        "webUrl": "/telefon-x-c104025",
+        "children": [
+          { "title": "Cep Telefonu", "webUrl": "/cep-telefonu-x-c103498" },
+          {
+            "title": "Android Cep Telefonları",
+            "webUrl": "/android-cep-telefonlari-x-c164461"
+          },
+          {
+            "title": "iPhone iOS Cep Telefonları",
+            "webUrl": "/iphone-ios-cep-telefonlari-x-c164462"
+          },
+          {
+            "title": "Telefon Kılıfları",
+            "webUrl": "/kapak-ve-kilif-x-c104026"
+          },
+          {
+            "title": "Şarj Cihazları",
+            "webUrl": "/sarj-cihazlari-x-c103112"
+          },
+          {
+            "title": "Powerbank",
+            "webUrl": "/tasinabilir-batarya-x-c103113"
+          },
+          {
+            "title": "Araç İçi Telefon Tutucu",
+            "webUrl": "/arac-ici-telefon-tutucular-x-c104033"
+          },
+          {
+            "title": "iPhone Kılıflar",
+            "webUrl": "/apple-telefon-kilifi-x-b101470-c109349"
+          },
+          { "title": "Kulaklıklar", "webUrl": "/kulaklik-x-c92" }
+        ]
+      },
+      {
+        "title": "Foto & Kamera",
+        "webUrl": "/foto-ve-kamera-x-c104037",
+        "children": [
+          {
+            "title": "Aksiyon Kamera",
+            "webUrl": "/aksiyon-kamera-x-c104245"
+          },
+          {
+            "title": "Fotoğraf Makinesi",
+            "webUrl": "/dijital-fotograf-makineleri-x-c104042"
+          },
+          {
+            "title": "Video Kamera",
+            "webUrl": "/video-kameralar-x-c104043"
+          },
+          {
+            "title": "Şipşak Fotoğraf Makinesi",
+            "webUrl": "/sipsak-fotograf-makinesi-y-s20662"
+          },
+          {
+            "title": "Dijital Fotoğraf Makinesi",
+            "webUrl": "/dijital-fotograf-makineleri-x-c104042"
+          },
+          {
+            "title": "Fotoğraf Makinesi Lensleri",
+            "webUrl": "/kamera-lensi-y-s12248?"
+          },
+          { "title": "Hafıza Kartı", "webUrl": "/hafiza-karti-x-c103782" }
+        ]
+      },
+      {
+        "title": "TV & Görüntü & Ses",
+        "webUrl": "/tv-goruntu-ses-sistemleri-x-c104035",
+        "children": [
+          { "title": "Televizyon", "webUrl": "/televizyon-x-c104156" },
+          { "title": "Smart TV", "webUrl": "/smart-tv-y-s4791" },
+          { "title": "QLED TV", "webUrl": "/qled-tv-y-s6473" },
+          { "title": "OLED TV", "webUrl": "/oled-tv-y-s9857" },
+          {
+            "title": "TV Kumandaları",
+            "webUrl": "/uzaktan-kumandalar-x-c110304"
+          },
+          { "title": "Soundbar", "webUrl": "/soundbar-x-c143233" },
+          {
+            "title": "Projeksiyon Cihazı",
+            "webUrl": "/projeksiyon-cihazi-x-c104157"
+          },
+          { "title": "Media Player", "webUrl": "/media-player-x-c103669" },
+          { "title": "Hoparlör", "webUrl": "/hoparlor-x-c1067" },
+          { "title": "Kulaklık", "webUrl": "/kulaklik-x-c92" },
+          { "title": "Uydu Alıcısı", "webUrl": "/uydu-alici-x-c109343" },
+          { "title": "Çanak Anten", "webUrl": "/canak-anten-y-s7839" },
+          { "title": "HDMI Kablo", "webUrl": "/hdmi-kablo-y-s4210" },
+          {
+            "title": "Akım Korumalı Prizler",
+            "webUrl": "/akim-korumali-priz-y-s3398"
+          },
+          {
+            "title": "Kablo & Adaptör",
+            "webUrl": "/kablo-adaptor-x-c103672"
+          },
+          { "title": "LNB", "webUrl": "/3-lu-lnb-y-s16667" },
+          {
+            "title": "TV Ekran Koruyucu",
+            "webUrl": "/tv-ekran-koruyucular-x-c110303"
+          },
+          {
+            "title": "TV Askı Aparatı",
+            "webUrl": "/tv-aski-aparatlari-x-c110306"
+          },
+          { "title": "Kablolu Hoparlör", "webUrl": "/hoparlor-x-c1067" }
+        ]
+      },
+      {
+        "title": "Beyaz Eşya",
+        "webUrl": "/beyaz-esya-x-c103613",
+        "children": [
+          { "title": "Buzdolabı", "webUrl": "/buzdolabi-x-c103623" },
+          {
+            "title": "Çamaşır Makinesi",
+            "webUrl": "/camasir-makinesi-x-c103625"
+          },
+          {
+            "title": "Bulaşık Makinesi",
+            "webUrl": "/bulasik-makinesi-x-c103621"
+          },
+          {
+            "title": "Kurutma Makinesi",
+            "webUrl": "/kurutma-makinesi-x-c103636"
+          },
+          {
+            "title": "Derin Dondurucu",
+            "webUrl": "/derin-dondurucu-x-c103629"
+          },
+          {
+            "title": "Ankastre Setler",
+            "webUrl": "/ankastre-set-x-c103615"
+          },
+          { "title": "Kombi", "webUrl": "/kombi-x-c104081" },
+          {
+            "title": "Mikrodalga Fırın",
+            "webUrl": "/mikrodalga-firin-x-c103681"
+          },
+          { "title": "Aspiratör", "webUrl": "/aspirator-x-c103616" },
+          {
+            "title": "Mini & Midi Fırın",
+            "webUrl": "/mini-midi-firin-x-c103682"
+          },
+          {
+            "title": "Ankastre Davlumbaz",
+            "webUrl": "/davlumbazlar-x-c103627"
+          },
+          {
+            "title": "Ankastre Ocak",
+            "webUrl": "/ankastre-ocak-y-s7267?q=Ankastre%20Ocak&attr=197|2177"
+          }
+        ]
+      },
+      {
+        "title": "Bilgisayar & Tablet",
+        "webUrl": "/sr?wc=108656,103665",
+        "children": [
+          { "title": "Bilgisayarlar", "webUrl": "/bilgisayar-x-c108656" },
+          { "title": "Tablet", "webUrl": "/tablet-x-c103665" },
+          {
+            "title": "Bilgisayar Bileşenleri",
+            "webUrl": "/bilgisayar-bilesenleri-x-c103662"
+          },
+          { "title": "Monitör", "webUrl": "/monitor-x-c103668" },
+          {
+            "title": "Yazıcı & Tarayıcı",
+            "webUrl": "/yazici-tarayici-x-c104116"
+          },
+          { "title": "Ağ & Modem", "webUrl": "/ag-modem-x-c103661" },
+          { "title": "Klavye", "webUrl": "/klavye-x-c103671" },
+          { "title": "Mouse", "webUrl": "/mouse-x-c108664" },
+          {
+            "title": "Grafik Tablet",
+            "webUrl": "/grafik-tablet-x-c108710"
+          },
+          { "title": "SSD", "webUrl": "/ssd-harddisk-x-c103784" },
+          { "title": "RAM", "webUrl": "/ram-x-c108545" },
+          { "title": "Ekran Kartı", "webUrl": "/ekran-karti-x-c108443" },
+          { "title": "Çocuk Çizim Tableti", "webUrl": "/sr?wc=165427" }
+        ]
+      },
+      {
+        "title": "Kişisel Bakım Aletleri",
+        "webUrl": "/kisisel-bakim-aletleri-x-c103109",
+        "children": [
+          {
+            "title": "Saç Düzleştirici",
+            "webUrl": "/sac-duzlestirici-x-c1160"
+          },
+          { "title": "Saç Maşası", "webUrl": "/sac-masasi-x-c1163" },
+          {
+            "title": "Saç Kurutma Makinesi",
+            "webUrl": "/sac-kurutma-makinesi-x-c1161"
+          },
+          {
+            "title": "Tıraş Makinesi",
+            "webUrl": "/tiras-makinesi-x-c102377"
+          },
+          { "title": "Tartı", "webUrl": "/tarti-x-c1012" },
+          {
+            "title": "Epilasyon Aletleri",
+            "webUrl": "/epilator-x-c104074"
+          },
+          {
+            "title": "IPL Lazer Epilasyon",
+            "webUrl": "/ipl-lazer-epilasyon-aletleri-x-c110275"
+          }
+        ]
+      },
+      {
+        "title": "Oyunculara Özel",
+        "webUrl": "/oyunculara-ozel-urunler-y-s10179",
+        "children": [
+          {
+            "title": "Playstation",
+            "webUrl": "/playstation-konsollari-x-c104270"
+          },
+          { "title": "Xbox", "webUrl": "/xbox-konsollari-x-c104272" },
+          { "title": "Nintendo", "webUrl": "/nintendo-x-b104993" },
+          {
+            "title": "Playstation Oyunları",
+            "webUrl": "/playstation-oyunlari-x-c105797"
+          },
+          {
+            "title": "Konsol Aksesuarları",
+            "webUrl": "/konsol-aksesuarlari-x-c104045"
+          },
+          {
+            "title": "Oyuncu Bilgisayarı",
+            "webUrl": "/oyuncu-bilgisayari-x-c106083"
+          },
+          {
+            "title": "Oyuncu Donanımları",
+            "webUrl": "/oyuncu-donanimlari-x-c144420"
+          },
+          {
+            "title": "Oyuncu Monitörleri",
+            "webUrl": "/oyuncu-monitor-x-c106087"
+          },
+          {
+            "title": "Oyuncu Koltuğu",
+            "webUrl": "/oyuncu-koltugu-x-c106333"
+          },
+          {
+            "title": "Oyuncu Kulaklığı",
+            "webUrl": "/oyuncu-kulakliklari-x-c106086"
+          },
+          {
+            "title": "Oyuncu Mouse",
+            "webUrl": "/oyuncu-mouselari-x-c106088"
+          },
+          {
+            "title": "Oyuncu Klavyesi",
+            "webUrl": "/oyuncu-klavyesi-x-c106320"
+          },
+          {
+            "title": "Bilgisayar Oyunları",
+            "webUrl": "/bilgisayar-oyunlari-x-c104046"
+          }
+        ]
+      },
+      {
+        "title": "Elektronik Aksesuarlar",
+        "webUrl": "/elektronik-x-c104024",
+        "children": [
+          {
+            "title": "Bilgisayar Aksesuar",
+            "webUrl": "/bilgisayar-tablet-aksesuar-x-c104568"
+          },
+          {
+            "title": "Telefon Aksesuarları",
+            "webUrl": "/telefon-aksesuarlari-x-c1190"
+          },
+          {
+            "title": "TV Aksesuarları",
+            "webUrl": "/tv-aksesuari-x-c104461"
+          },
+          { "title": "Veri Depolama", "webUrl": "/veri-depolama-x-c103664" }
+        ]
+      },
+      {
+        "title": "Klima & Istıcılar",
+        "webUrl": "/sr?wc=104078&os=1&sk=1",
+        "children": [
+          { "title": "Klima", "webUrl": "/sr/klima-x-c104080?os=1" },
+          { "title": "Kombi", "webUrl": "/sr/kombi-x-c104081?os=1" },
+          {
+            "title": "Isıtıcılar",
+            "webUrl": "/sr/soba-isitici-x-c104083?os=1"
+          },
+          {
+            "title": "Vantilatör",
+            "webUrl": "/sr/vantilator-x-c104086?os=1"
+          },
+          { "title": "Şofben", "webUrl": "/sr/sofben-x-c104084?os=1" },
+          {
+            "title": "Termosifon",
+            "webUrl": "/sr/termosifon-x-c104085?os=1"
+          },
+          {
+            "title": "Hava Temizleyici",
+            "webUrl": "/hava-temizleyici-x-c109090?os=1"
+          },
+          {
+            "title": "Hava Nemlendirici",
+            "webUrl": "/hava-nemlendiricisi-x-c109089?os=1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Spor & Outdoor",
+    "webUrl": "/butik/liste/22/spor--outdoor",
+    "image": "/mobile/web-navigation/V2/Spor_Outdoor.svg",
+    "isNew": false,
+    "children": [
+      {
+        "title": "Spor Üst Giyim",
+        "webUrl": "/spor-giyim-x-c101447",
+        "children": [
+          { "title": "Spor Tişört", "webUrl": "/spor-t-shirt-x-c101459" },
+          { "title": "Ceket & Yelek", "webUrl": "/spor-yelek-x-c101461" },
+          {
+            "title": "Yağmurluk",
+            "webUrl": "/yagmurluk-ruzgarlik-x-c1205"
+          },
+          {
+            "title": "Spor Sütyeni",
+            "webUrl": "/kadin-sporcu-sutyeni-x-g1-c1358"
+          },
+          { "title": "Sweatshirt", "webUrl": "/spor-sweatshirt-x-c101456" },
+          { "title": "Atlet", "webUrl": "/spor-atlet-x-c101448" },
+          { "title": "Forma", "webUrl": "/forma-x-c1054" },
+          { "title": "Spor Mont", "webUrl": "/spor-mont-x-c101453" },
+          { "title": "Spor Şapka", "webUrl": "/spor-sapka-x-c101457" }
+        ]
+      },
+      {
+        "title": "Spor Alt Giyim",
+        "webUrl": "/spor-giyim-x-c101447",
+        "children": [
+          {
+            "title": "Eşofman Takımı",
+            "webUrl": "/esofman-takimi-x-c101452"
+          },
+          { "title": "Tayt", "webUrl": "/spor-tayt-x-c101460" },
+          { "title": "Şort", "webUrl": "/spor-sort-x-c101458" },
+          { "title": "Termal Giyim", "webUrl": "/iclik-x-c103713" },
+          { "title": "Çorap", "webUrl": "/corap-x-c1038" },
+          {
+            "title": "Spor Pantolon",
+            "webUrl": "/spor-pantolon-x-c109028"
+          },
+          { "title": "Terlik", "webUrl": "/spor-terlik-y-s11545" },
+          { "title": "Eşofman", "webUrl": "/esofman-x-c1049" }
+        ]
+      },
+      {
+        "title": "Spor Ayakkabı",
+        "webUrl": "/spor-ayakkabi-x-c109",
+        "children": [
+          { "title": "Sneaker", "webUrl": "/sneaker-x-c1172" },
+          {
+            "title": "Koşu Ayakkabısı",
+            "webUrl": "/kosu-ayakkabisi-x-c101426"
+          },
+          {
+            "title": "Halı Saha Ayakkabısı",
+            "webUrl": "/hali-saha-ayakkabisi-x-c1057"
+          },
+          {
+            "title": "Basketbol Ayakkabısı",
+            "webUrl": "/basketbol-ayakkabisi-x-c101422"
+          },
+          {
+            "title": "Yürüyüş Ayakkabısı",
+            "webUrl": "/yuruyus-ayakkabisi-x-c101429"
+          },
+          {
+            "title": "Outdoor Ayakkabı",
+            "webUrl": "/outdoor-ayakkabi-x-c1128"
+          },
+          {
+            "title": "Tenis Ayakkabısı",
+            "webUrl": "/tenis-ayakkabisi-x-c101428"
+          },
+          {
+            "title": "Voleybol Ayakkabısı",
+            "webUrl": "/voleybol-ayakkabisi-x-c105794"
+          },
+          {
+            "title": "Fitness Ayakkabısı",
+            "webUrl": "/fitness-ayakkabisi-x-c101423"
+          },
+          {
+            "title": "Deniz Ayakkabısı",
+            "webUrl": "/deniz-ayakkabisi-x-c103687"
+          },
+          {
+            "title": "Kaykay Ayakkabısı",
+            "webUrl": "/kaykay-ayakkabisi-y-s10163"
+          },
+          { "title": "Outdoor Bot", "webUrl": "/bot-x-c1025" },
+          { "title": "Terlik", "webUrl": "/terlik-x-c110" },
+          { "title": "Sandalet", "webUrl": "/sandalet-x-c111" },
+          { "title": "Çizme", "webUrl": "/bot-ve-cizme-x-c1351" },
+          { "title": "Bot", "webUrl": "/bot-x-c1025" },
+          { "title": "Kar Botu", "webUrl": "/kar-botu-x-c142587" },
+          {
+            "title": "Kayak Ayakkabısı",
+            "webUrl": "/kayak-ayakkabisi-x-c104523"
+          },
+          {
+            "title": "Snowboard Botu",
+            "webUrl": "/snowboard-botu-x-c145877"
+          },
+          { "title": "Havuz Terliği", "webUrl": "/deniz-terligi-y-s10877" }
+        ]
+      },
+      {
+        "title": "Evde Spor Aletleri",
+        "webUrl": "/spor-aletleri-x-c104192",
+        "children": [
+          {
+            "title": "Elastik Bant",
+            "webUrl": "/direnc-lastigi-x-c109294"
+          },
+          { "title": "El Yayı", "webUrl": "/el-yayi-x-c145850" },
+          { "title": "Mat", "webUrl": "/pilates-minder-ve-mat-x-c109295" },
+          {
+            "title": "Çalışma İstasyonları",
+            "webUrl": "/calisma-istasyonlari-x-c104286"
+          },
+          { "title": "Atlama İpi", "webUrl": "/atlama-ipi-y-s3523" },
+          {
+            "title": "Boks Eldiveni",
+            "webUrl": "/boks-eldiveni-x-c145668"
+          },
+          {
+            "title": "Dambıl Seti",
+            "webUrl": "/dambillar-ve-agirlik-plakalari-x-c104287"
+          },
+          {
+            "title": "Eliptik Bisiklet",
+            "webUrl": "/eliptik-bisiklet-y-s4014"
+          },
+          {
+            "title": "Barfiks Barı",
+            "webUrl": "/barfiks-ve-sinav-barlari-x-c104285"
+          },
+          {
+            "title": "Eldiven",
+            "webUrl": "/agirlik-eldiveni-kemer-x-c104283"
+          },
+          { "title": "Kettlebell", "webUrl": "/kettlebell-y-s4431" },
+          {
+            "title": "Kondisyon Bisikleti",
+            "webUrl": "/kondisyon-bisikletleri-x-c104276"
+          },
+          { "title": "Yürüme Bandı", "webUrl": "/kosu-bantlari-x-c104277" },
+          { "title": "Pilates Topu", "webUrl": "/pilates-topu-x-c109292" },
+          { "title": "Kürek Çekme Aleti", "webUrl": "/kurek-x-c104288" },
+          { "title": "Boks Bandajı", "webUrl": "/boks-bandaji-x-c145667" },
+          { "title": "Crossfit", "webUrl": "/crossfit-x-c145808" }
+        ]
+      },
+      {
+        "title": "Spor Malzemeleri",
+        "webUrl": "/spor-aletleri-x-c104192",
+        "children": [
+          {
+            "title": "Deniz & Plaj",
+            "webUrl": "/sisme-deniz-havuz-urunu-x-c104539"
+          },
+          { "title": "Kaykay", "webUrl": "/kaykay-x-c1091" },
+          { "title": "Paten", "webUrl": "/paten-x-c1138" },
+          {
+            "title": "Kamp Malzemeleri",
+            "webUrl": "/kamp-malzemesi-x-c104250"
+          },
+          {
+            "title": "Dağcılık & Tırmanış",
+            "webUrl": "/dagcilik-malzemeleri-x-c104268"
+          },
+          {
+            "title": "Aksiyon Kamera",
+            "webUrl": "/aksiyon-kamera-x-c104245"
+          },
+          {
+            "title": "Çadır Uyku Tulumu",
+            "webUrl": "/cadir-uyku-tulumu-x-c104256"
+          },
+          {
+            "title": "Su Sporu Malzemeleri",
+            "webUrl": "/su-sporlari-x-c145901"
+          },
+          {
+            "title": "Dalış Malzemeleri",
+            "webUrl": "/dalis-malzemeleri-x-c104238"
+          },
+          {
+            "title": "Balıkçılık Malzemeleri",
+            "webUrl": "/av-balikcilik-malzemeleri-x-c104231"
+          },
+          { "title": "Tenis Malzemeleri", "webUrl": "/tenis-x-c145769" },
+          {
+            "title": "Kayak ve Snowboard",
+            "webUrl": "/kayak-ve-snowboard-x-c145855"
+          },
+          { "title": "Okçuluk", "webUrl": "/okculuk-sporu-x-c145746" },
+          { "title": "Çadır", "webUrl": "/cadir-x-c104254" },
+          { "title": "Havlu", "webUrl": "/spor-havlusu-y-s20793" },
+          { "title": "Suluk", "webUrl": "/sporcu-matarasi-x-c145893" },
+          {
+            "title": "Matlar",
+            "webUrl": "/pilates-minder-ve-mat-x-c109295"
+          },
+          { "title": "Bisiklet", "webUrl": "/bisiklet-x-c104580" },
+          { "title": "Termos", "webUrl": "/termos-x-c1193" },
+          {
+            "title": "Pilates Topları",
+            "webUrl": "/pilates-topu-x-c109292"
+          }
+        ]
+      },
+      {
+        "title": "Bisiklet",
+        "webUrl": "/bisiklet-x-c104580",
+        "children": [
+          {
+            "title": "Şehir Bisikleti",
+            "webUrl": "/sehir-bisikleti-y-s6620"
+          },
+          { "title": "Dağ Bisikleti", "webUrl": "/dag-bisikleti-y-s7377" },
+          {
+            "title": "Katlanabilir Bisikletler",
+            "webUrl": "/katlanabilir-bisiklet-y-s12961"
+          },
+          {
+            "title": "Yol Bisikletleri",
+            "webUrl": "/yol-bisikleti-y-s4865"
+          },
+          {
+            "title": "Çocuk Bisikletleri",
+            "webUrl": "/cocuk-bisikleti-x-c104529"
+          },
+          {
+            "title": "Elektrikli Bisikletler",
+            "webUrl": "/elektrikli-bisiklet-x-c110349"
+          },
+          {
+            "title": "Bisikletçi Ekipmanları",
+            "webUrl": "/bisiklet-aksesuarlari-x-c104581"
+          },
+          {
+            "title": "Bisiklet Gözlükleri",
+            "webUrl": "/bisiklet-gozlugu-y-s3686"
+          },
+          {
+            "title": "Bisiklet Kaskları",
+            "webUrl": "/bisiklet-kaski-x-c145636"
+          }
+        ]
+      },
+      {
+        "title": "Fitness Kondisyon",
+        "webUrl": "/fitness-ve-kondisyon-x-c104273",
+        "children": [
+          {
+            "title": "Pilates Malzemeleri",
+            "webUrl": "/pilates-malzemeleri-x-c1146"
+          },
+          {
+            "title": "Fitness Aletleri",
+            "webUrl": "/fitness-aletleri-x-c108957"
+          },
+          {
+            "title": "Kondisyon Bisikleti",
+            "webUrl": "/kondisyon-bisikletleri-x-c104276"
+          },
+          { "title": "Koşu Bandı", "webUrl": "/kosu-bantlari-x-c104277" },
+          {
+            "title": "Yoga Malzemeleri",
+            "webUrl": "/yoga-malzemeleri-x-c104280"
+          },
+          { "title": "Dambıl Seti", "webUrl": "/dambil-seti-x-c109318" },
+          {
+            "title": "Ağırlık Plakaları",
+            "webUrl": "/dambillar-ve-agirlik-plakalari-x-c104287"
+          },
+          {
+            "title": "Barfiks",
+            "webUrl": "/barfiks-ve-sinav-barlari-x-c104285"
+          }
+        ]
+      },
+      {
+        "title": "Sporcu Besinleri",
+        "webUrl": "/sporcu-besini-supplementler-x-c105131",
+        "children": [
+          { "title": "Protein Tozu", "webUrl": "/protein-tozu-x-c104165" },
+          { "title": "Amino Asit", "webUrl": "/amino-asit-x-c104160" },
+          {
+            "title": "Karbonhidrat",
+            "webUrl": "/karbonhidrat-mass-gainer-x-c104161"
+          },
+          {
+            "title": "L-Karnitin (CLA)",
+            "webUrl": "/l-karnitin-cla-x-c104163"
+          },
+          {
+            "title": "Güç ve Performans",
+            "webUrl": "/guc-ve-performans-urunleri-x-c105094"
+          },
+          {
+            "title": "Gıda Takviyesi & Vitaminler",
+            "webUrl": "/gida-takviyeleri-vitaminler-x-c105085"
+          },
+          { "title": "Kreatin", "webUrl": "/kreatin-x-c104162" },
+          { "title": "Protein Bar", "webUrl": "/protein-bar-x-c110468" },
+          { "title": "Shaker", "webUrl": "/shaker-aksesuar-x-c104225" }
+        ]
+      },
+      {
+        "title": "Top",
+        "webUrl": "/top-x-c104281",
+        "children": [
+          {
+            "title": "Basketbol Topu",
+            "webUrl": "/basketbol-topu-x-c109389"
+          },
+          { "title": "Futbol Topu", "webUrl": "/futbol-topu-x-c109372" }
+        ]
+      }
+    ]
+  }
+]
